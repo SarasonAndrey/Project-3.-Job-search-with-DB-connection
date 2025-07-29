@@ -1,0 +1,3356 @@
+{
+  "items": [
+    {
+      "id": "123336982",
+      "premium": false,
+      "name": "Senior product marketing manager",
+      "department": {
+        "id": "hh-1455-MARK",
+        "name": "HeadHunter::Департамент маркетинга"
+      },
+      "has_test": false,
+      "response_letter_required": true,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "улица Годовикова",
+        "building": "9с10",
+        "lat": 55.809343,
+        "lng": 37.628505,
+        "description": null,
+        "raw": "Москва, улица Годовикова, 9с10",
+        "metro": {
+          "station_name": "Алексеевская",
+          "line_name": "Калужско-Рижская",
+          "station_id": "6.8",
+          "line_id": "6",
+          "lat": 55.807794,
+          "lng": 37.638699
+        },
+        "metro_stations": [
+          {
+            "station_name": "Алексеевская",
+            "line_name": "Калужско-Рижская",
+            "station_id": "6.8",
+            "line_id": "6",
+            "lat": 55.807794,
+            "lng": 37.638699
+          }
+        ],
+        "id": "525394"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-28T18:20:45+0300",
+      "created_at": "2025-07-28T18:20:45+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123336982",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123336982?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123336982",
+      "relations": [],
+      "employer": {
+        "id": "1455",
+        "name": "HeadHunter",
+        "url": "https://api.hh.ru/employers/1455",
+        "alternate_url": "https://hh.ru/employer/1455",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1403364.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7233124.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7233125.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1455",
+        "accredited_it_employer": true,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт работы в продуктовом маркетинге от 3-5 лет. Успешный опыт планирования и реализации маркетинговых стратегий и рекламных кампаний 360. ",
+        "responsibility": "Формировать маркетинговую стратегию сегмента. Лидировать запуски рекламных кампаний 360 в партнерстве с кросс-функциональной командой. Прогнозировать и защищать годовой бюджет..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "68",
+          "name": "Менеджер по маркетингу, интернет-маркетолог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123140453",
+      "premium": false,
+      "name": "Бизнес-аналитик / Product Owner (Коммерческий департамент)",
+      "department": {
+        "id": "hh-1455-dko",
+        "name": "HeadHunter::Департамент коммерческих операций"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "улица Годовикова",
+        "building": "9с10",
+        "lat": 55.809343,
+        "lng": 37.628505,
+        "description": null,
+        "raw": "Москва, улица Годовикова, 9с10",
+        "metro": {
+          "station_name": "Алексеевская",
+          "line_name": "Калужско-Рижская",
+          "station_id": "6.8",
+          "line_id": "6",
+          "lat": 55.807794,
+          "lng": 37.638699
+        },
+        "metro_stations": [
+          {
+            "station_name": "Алексеевская",
+            "line_name": "Калужско-Рижская",
+            "station_id": "6.8",
+            "line_id": "6",
+            "lat": 55.807794,
+            "lng": 37.638699
+          }
+        ],
+        "id": "525394"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-23T11:35:20+0300",
+      "created_at": "2025-07-23T11:35:20+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123140453",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "brand_snippet": {
+        "logo": null,
+        "logo_xs": null,
+        "logo_scalable": {
+          "default": {
+            "width": 48,
+            "height": 48,
+            "url": "https://img.hhcdn.ru/brand-snippet-pictures/00139.png"
+          },
+          "xs": {
+            "width": 48,
+            "height": 48,
+            "url": "https://img.hhcdn.ru/brand-snippet-pictures/00140.png"
+          }
+        },
+        "picture": null,
+        "picture_xs": null,
+        "picture_scalable": {
+          "default": {
+            "width": 587,
+            "height": 619,
+            "url": "https://img.hhcdn.ru/brand-snippet-pictures/00279.png"
+          },
+          "xs": {
+            "width": 382,
+            "height": 366,
+            "url": "https://img.hhcdn.ru/brand-snippet-pictures/00280.png"
+          }
+        },
+        "background": {
+          "color": "#1b1b1b",
+          "gradient": null
+        }
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123140453?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123140453",
+      "relations": [],
+      "employer": {
+        "id": "1455",
+        "name": "HeadHunter",
+        "url": "https://api.hh.ru/employers/1455",
+        "alternate_url": "https://hh.ru/employer/1455",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1403364.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7233124.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7233125.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1455",
+        "accredited_it_employer": true,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Учишься или уже закончил ведущий технический вуз (рассматриваем кандидатов с 4 курса). Можешь разложить сложное на простые части, находишь причины...",
+        "responsibility": "Погружаться в процессы команд продаж и поддержки, находить точки роста. Формулировать бизнес-инициативы, рассчитывать экономический эффект, защищать предложения перед C..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "150",
+          "name": "Бизнес-аналитик"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "122720304",
+      "premium": false,
+      "name": "Специалист службы поддержки пользователей",
+      "department": {
+        "id": "hh-1455-CLIENTS",
+        "name": "HeadHunter::Департамент клиентского сопровождения"
+      },
+      "has_test": false,
+      "response_letter_required": true,
+      "area": {
+        "id": "22",
+        "name": "Владивосток",
+        "url": "https://api.hh.ru/areas/22"
+      },
+      "salary": {
+        "from": 70000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false
+      },
+      "salary_range": {
+        "from": 70000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": null
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Владивосток",
+        "street": "Океанский проспект",
+        "building": "17",
+        "lat": 43.119537,
+        "lng": 131.886491,
+        "description": null,
+        "raw": "Владивосток, Океанский проспект, 17",
+        "metro": null,
+        "metro_stations": [],
+        "id": "5138888"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-21T09:32:09+0300",
+      "created_at": "2025-07-21T09:32:09+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=122720304",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/122720304?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/122720304",
+      "relations": [],
+      "employer": {
+        "id": "1455",
+        "name": "HeadHunter",
+        "url": "https://api.hh.ru/employers/1455",
+        "alternate_url": "https://hh.ru/employer/1455",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1403364.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7233124.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7233125.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1455",
+        "accredited_it_employer": true,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "У тебя среднее специальное, высшее или неоконченное высшее образование. Нацелен на результат и берёшь за него ответственность. Легко адаптируешься под...",
+        "responsibility": "Отвечать на звонки наших клиентов и консультировать их по вопросам работы с сайтом. Помогать клиентам решать возникшие проблемы. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "121",
+          "name": "Специалист технической поддержки"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123111578",
+      "premium": false,
+      "name": "Data Scientist в Trust & Safety",
+      "department": {
+        "id": "hh-1455-ds",
+        "name": "HeadHunter::Analytics/Data Science"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "улица Годовикова",
+        "building": "9с10",
+        "lat": 55.809343,
+        "lng": 37.628505,
+        "description": null,
+        "raw": "Москва, улица Годовикова, 9с10",
+        "metro": {
+          "station_name": "Алексеевская",
+          "line_name": "Калужско-Рижская",
+          "station_id": "6.8",
+          "line_id": "6",
+          "lat": 55.807794,
+          "lng": 37.638699
+        },
+        "metro_stations": [
+          {
+            "station_name": "Алексеевская",
+            "line_name": "Калужско-Рижская",
+            "station_id": "6.8",
+            "line_id": "6",
+            "lat": 55.807794,
+            "lng": 37.638699
+          }
+        ],
+        "id": "525394"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-22T15:12:19+0300",
+      "created_at": "2025-07-22T15:12:19+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123111578",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "brand_snippet": {
+        "logo": null,
+        "logo_xs": null,
+        "logo_scalable": {
+          "default": {
+            "width": 48,
+            "height": 48,
+            "url": "https://img.hhcdn.ru/brand-snippet-pictures/00139.png"
+          },
+          "xs": {
+            "width": 48,
+            "height": 48,
+            "url": "https://img.hhcdn.ru/brand-snippet-pictures/00140.png"
+          }
+        },
+        "picture": null,
+        "picture_xs": null,
+        "picture_scalable": {
+          "default": {
+            "width": 587,
+            "height": 619,
+            "url": "https://img.hhcdn.ru/brand-snippet-pictures/00279.png"
+          },
+          "xs": {
+            "width": 382,
+            "height": 366,
+            "url": "https://img.hhcdn.ru/brand-snippet-pictures/00280.png"
+          }
+        },
+        "background": {
+          "color": "#1b1b1b",
+          "gradient": null
+        }
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123111578?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123111578",
+      "relations": [],
+      "employer": {
+        "id": "1455",
+        "name": "HeadHunter",
+        "url": "https://api.hh.ru/employers/1455",
+        "alternate_url": "https://hh.ru/employer/1455",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1403364.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7233124.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7233125.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1455",
+        "accredited_it_employer": true,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Имеешь опыт реализации и применения моделей машинного обучения в продакшене. У тебя есть понимание основных методов и алгоритмов Machine Learning. ",
+        "responsibility": "Анализировать новые схемы фрода и предлагать механизмы защиты. Встраивать ML модели в существующие системы антифрода. Выявлять абьюзивный контент и абьюзивное..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "REMOTE",
+          "name": "Удалённо"
+        },
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        },
+        {
+          "id": "FLEXIBLE",
+          "name": "Свободный"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "165",
+          "name": "Дата-сайентист"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123295798",
+      "premium": false,
+      "name": "Специалист верификации",
+      "department": {
+        "id": "hh-1455-welcome",
+        "name": "HeadHunter:: Welcome-служба"
+      },
+      "has_test": false,
+      "response_letter_required": true,
+      "area": {
+        "id": "112",
+        "name": "Ярославль",
+        "url": "https://api.hh.ru/areas/112"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Ярославль",
+        "street": "Угличская улица",
+        "building": "39",
+        "lat": 57.632544,
+        "lng": 39.828326,
+        "description": null,
+        "raw": "Ярославль, Угличская улица, 39",
+        "metro": null,
+        "metro_stations": [],
+        "id": "1305566"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-28T09:42:15+0300",
+      "created_at": "2025-07-28T09:42:15+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123295798",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123295798?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123295798",
+      "relations": [],
+      "employer": {
+        "id": "1455",
+        "name": "HeadHunter",
+        "url": "https://api.hh.ru/employers/1455",
+        "alternate_url": "https://hh.ru/employer/1455",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1403364.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7233124.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7233125.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1455",
+        "accredited_it_employer": true,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт телефонных продаж будет большим плюсом. Умение четко и грамотно излагать свои мысли, письменно и устно. Высокая скорость печати. ",
+        "responsibility": "Оперативная обработка заявок на регистрацию от компаний-клиентов в соответствии с установленными правилами. Консультирование клиентов по работе с сайтом и..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "shift",
+        "name": "Сменный график"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [],
+      "working_hours": [
+        {
+          "id": "OTHER",
+          "name": "Другое"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FOUR_ON_TWO_OFF",
+          "name": "4/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "83",
+          "name": "Оператор call-центра, специалист контактного центра"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123058733",
+      "premium": false,
+      "name": "Ведущий менеджер по кадрам",
+      "department": {
+        "id": "hh-1455-HR",
+        "name": "HeadHunter::Департамент персонала"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "улица Годовикова",
+        "building": "9с10",
+        "lat": 55.809343,
+        "lng": 37.628505,
+        "description": null,
+        "raw": "Москва, улица Годовикова, 9с10",
+        "metro": {
+          "station_name": "Алексеевская",
+          "line_name": "Калужско-Рижская",
+          "station_id": "6.8",
+          "line_id": "6",
+          "lat": 55.807794,
+          "lng": 37.638699
+        },
+        "metro_stations": [
+          {
+            "station_name": "Алексеевская",
+            "line_name": "Калужско-Рижская",
+            "station_id": "6.8",
+            "line_id": "6",
+            "lat": 55.807794,
+            "lng": 37.638699
+          }
+        ],
+        "id": "525394"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-21T14:09:21+0300",
+      "created_at": "2025-07-21T14:09:21+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123058733",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123058733?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123058733",
+      "relations": [],
+      "employer": {
+        "id": "1455",
+        "name": "HeadHunter",
+        "url": "https://api.hh.ru/employers/1455",
+        "alternate_url": "https://hh.ru/employer/1455",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1403364.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7233124.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7233125.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1455",
+        "accredited_it_employer": true,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Релевантный опыт работы на позиции кадрового специалиста не менее трех лет. Бекграунд в ИТ/продуктовых компаниях будет преимуществом. ",
+        "responsibility": "Ведение полного цикла кадрового делопроизводства: прием, увольнение, переводы, командировки, отпуска, в соответствие с требованиями трудового законодательства. Администрирование кадровых мероприятий в..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "117",
+          "name": "Специалист по кадрам"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "122019845",
+      "premium": true,
+      "name": "Senior Python разработчик",
+      "department": {
+        "id": "hh-1455-Backend",
+        "name": "HeadHunter::Backend"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "улица Годовикова",
+        "building": "9с10",
+        "lat": 55.809343,
+        "lng": 37.628505,
+        "description": null,
+        "raw": "Москва, улица Годовикова, 9с10",
+        "metro": {
+          "station_name": "Алексеевская",
+          "line_name": "Калужско-Рижская",
+          "station_id": "6.8",
+          "line_id": "6",
+          "lat": 55.807794,
+          "lng": 37.638699
+        },
+        "metro_stations": [
+          {
+            "station_name": "Алексеевская",
+            "line_name": "Калужско-Рижская",
+            "station_id": "6.8",
+            "line_id": "6",
+            "lat": 55.807794,
+            "lng": 37.638699
+          }
+        ],
+        "id": "525394"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-23T17:43:26+0300",
+      "created_at": "2025-07-23T17:43:26+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=122019845",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/122019845?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/122019845",
+      "relations": [],
+      "employer": {
+        "id": "1455",
+        "name": "HeadHunter",
+        "url": "https://api.hh.ru/employers/1455",
+        "alternate_url": "https://hh.ru/employer/1455",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1403364.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7233124.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7233125.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1455",
+        "accredited_it_employer": true,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Крепкие знания Python. Опыт работы с FastAPI. Знание и опыт работы с SQLAlchemy. Опыт работы с PostgreSQL. Опыт работы с...",
+        "responsibility": "Разработка программных продуктов в соответствии с требованиями проекта. Самостоятельное изучение новых технологий и методологий. Отладка и устранение ошибок в программном..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "REMOTE",
+          "name": "Удалённо"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "40",
+          "name": "Другое"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "moreThan6",
+        "name": "Более 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123069861",
+      "premium": false,
+      "name": "Продюсер образовательных проектов",
+      "department": {
+        "id": "hh-1455-dko",
+        "name": "HeadHunter::Департамент коммерческих операций"
+      },
+      "has_test": false,
+      "response_letter_required": true,
+      "area": {
+        "id": "2",
+        "name": "Санкт-Петербург",
+        "url": "https://api.hh.ru/areas/2"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-21T16:45:04+0300",
+      "created_at": "2025-07-21T16:45:04+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123069861",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123069861?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123069861",
+      "relations": [],
+      "employer": {
+        "id": "1455",
+        "name": "HeadHunter",
+        "url": "https://api.hh.ru/employers/1455",
+        "alternate_url": "https://hh.ru/employer/1455",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1403364.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7233124.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7233125.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1455",
+        "accredited_it_employer": true,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Оценивать, какие навыки и знания нужны сотрудникам центров продаж и помогать им развиваться. Опыт работы в области обучения и развития...",
+        "responsibility": "Планировать и проводить различные мероприятия и тренинги для улучшения компетенций сотрудников."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "98",
+          "name": "Продюсер"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "122106612",
+      "premium": false,
+      "name": "Руководитель проектов коммерции в направлении SMB",
+      "department": {
+        "id": "hh-1455-dko",
+        "name": "HeadHunter::Департамент коммерческих операций"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "улица Годовикова",
+        "building": "9с10",
+        "lat": 55.809343,
+        "lng": 37.628505,
+        "description": null,
+        "raw": "Москва, улица Годовикова, 9с10",
+        "metro": {
+          "station_name": "Алексеевская",
+          "line_name": "Калужско-Рижская",
+          "station_id": "6.8",
+          "line_id": "6",
+          "lat": 55.807794,
+          "lng": 37.638699
+        },
+        "metro_stations": [
+          {
+            "station_name": "Алексеевская",
+            "line_name": "Калужско-Рижская",
+            "station_id": "6.8",
+            "line_id": "6",
+            "lat": 55.807794,
+            "lng": 37.638699
+          }
+        ],
+        "id": "525394"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-23T16:15:11+0300",
+      "created_at": "2025-07-23T16:15:11+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=122106612",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/122106612?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/122106612",
+      "relations": [],
+      "employer": {
+        "id": "1455",
+        "name": "HeadHunter",
+        "url": "https://api.hh.ru/employers/1455",
+        "alternate_url": "https://hh.ru/employer/1455",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1403364.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7233124.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7233125.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1455",
+        "accredited_it_employer": true,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Энергичность, problem solving подход к работе. Умение и готовность работать с данными, если возникнет такая необходимость. Большое плюс, если имеете...",
+        "responsibility": "Ключевой задачей данной позиции будет подхватить пул проектов, связанных с повышением эффективности продаж в SMB сегменте, и за счет их..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "107",
+          "name": "Руководитель проектов"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "122346289",
+      "premium": false,
+      "name": "Стажёр в службу технической поддержки соискателей",
+      "department": {
+        "id": "hh-1455-CLIENTS",
+        "name": "HeadHunter::Департамент клиентского сопровождения"
+      },
+      "has_test": true,
+      "response_letter_required": false,
+      "area": {
+        "id": "112",
+        "name": "Ярославль",
+        "url": "https://api.hh.ru/areas/112"
+      },
+      "salary": {
+        "from": 15000,
+        "to": 30000,
+        "currency": "RUR",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 15000,
+        "to": 30000,
+        "currency": "RUR",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": null
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Ярославль",
+        "street": "Угличская улица",
+        "building": "39",
+        "lat": 57.632544,
+        "lng": 39.828326,
+        "description": null,
+        "raw": "Ярославль, Угличская улица, 39",
+        "metro": null,
+        "metro_stations": [],
+        "id": "1305566"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-25T16:04:20+0300",
+      "created_at": "2025-07-25T16:04:20+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=122346289",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/122346289?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/122346289",
+      "relations": [],
+      "employer": {
+        "id": "1455",
+        "name": "HeadHunter",
+        "url": "https://api.hh.ru/employers/1455",
+        "alternate_url": "https://hh.ru/employer/1455",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1403364.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7233124.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7233125.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1455",
+        "accredited_it_employer": true,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Какие задачи ты будешь решать:",
+        "responsibility": "Консультировать клиентов сайта hh.ru в чатах по техническим и другим вопросам работы с сайтом. Отвечать на обращения, поступающие от соискателей..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [
+        {
+          "id": "from_four_to_six_hours_in_a_day",
+          "name": "Можно сменами по 4-6 часов в день"
+        }
+      ],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_4",
+          "name": "4 часа"
+        },
+        {
+          "id": "HOURS_6",
+          "name": "6 часов"
+        },
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "121",
+          "name": "Специалист технической поддержки"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "part",
+        "name": "Частичная занятость"
+      },
+      "employment_form": {
+        "id": "PART",
+        "name": "Частичная"
+      },
+      "internship": true,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "122622912",
+      "premium": false,
+      "name": "Frontend-разработчик в команду StatWars",
+      "department": {
+        "id": "hh-1455-Frontend",
+        "name": "HeadHunter::Frontend"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-17T12:36:08+0300",
+      "created_at": "2025-07-17T12:36:08+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=122622912",
+      "show_logo_in_search": null,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/122622912?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/122622912",
+      "relations": [],
+      "employer": {
+        "id": "1455",
+        "name": "HeadHunter",
+        "url": "https://api.hh.ru/employers/1455",
+        "alternate_url": "https://hh.ru/employer/1455",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1403364.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7233124.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7233125.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1455",
+        "accredited_it_employer": true,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Хорошо знаешь JavaScript, TypeScript и React. Знаешь, куда смотреть при разработке страниц. Как будем знакомиться: Затем тебя ждет техническое полуторачасовое...",
+        "responsibility": "Разработка инструментов для анализа текущего состояния рынка труда. Разработка моделей и алгоритмов прогнозирования развития рынка труда. Разработка системы рекомендаций, позволяющих..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "REMOTE",
+          "name": "Удалённо"
+        },
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        },
+        {
+          "id": "FLEXIBLE",
+          "name": "Свободный"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "96",
+          "name": "Программист, разработчик"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "121697018",
+      "premium": false,
+      "name": "Strategy Analyst (Аналитик по стратегии)",
+      "department": {
+        "id": "hh-1455-strat",
+        "name": "HeadHunter::Департамент стратегии и корпоративного развития"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "улица Годовикова",
+        "building": "9с10",
+        "lat": 55.809343,
+        "lng": 37.628505,
+        "description": null,
+        "raw": "Москва, улица Годовикова, 9с10",
+        "metro": {
+          "station_name": "Алексеевская",
+          "line_name": "Калужско-Рижская",
+          "station_id": "6.8",
+          "line_id": "6",
+          "lat": 55.807794,
+          "lng": 37.638699
+        },
+        "metro_stations": [
+          {
+            "station_name": "Алексеевская",
+            "line_name": "Калужско-Рижская",
+            "station_id": "6.8",
+            "line_id": "6",
+            "lat": 55.807794,
+            "lng": 37.638699
+          }
+        ],
+        "id": "525394"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-29T12:01:01+0300",
+      "created_at": "2025-07-29T12:01:01+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121697018",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/121697018?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/121697018",
+      "relations": [],
+      "employer": {
+        "id": "1455",
+        "name": "HeadHunter",
+        "url": "https://api.hh.ru/employers/1455",
+        "alternate_url": "https://hh.ru/employer/1455",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1403364.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7233124.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7233125.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1455",
+        "accredited_it_employer": true,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Степень бакалавра или магистра в престижном университете, предпочтительно в области экономики, информатики, математики или смежных областях. Опыт от 2-х...",
+        "responsibility": "Проводить стратегический анализ различных рынков и нишевых сегментов, чтобы оценить их потенциал для расширения компании и поддержать принятие решений на..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        },
+        {
+          "id": "REMOTE",
+          "name": "Удалённо"
+        },
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "75",
+          "name": "Менеджер/консультант по стратегии"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "120081532",
+      "premium": false,
+      "name": "Аналитик по ценообразованию",
+      "department": {
+        "id": "hh-1455-ba",
+        "name": "HeadHunter::Бизнес аналитики"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "улица Годовикова",
+        "building": "9с10",
+        "lat": 55.809343,
+        "lng": 37.628505,
+        "description": null,
+        "raw": "Москва, улица Годовикова, 9с10",
+        "metro": {
+          "station_name": "Алексеевская",
+          "line_name": "Калужско-Рижская",
+          "station_id": "6.8",
+          "line_id": "6",
+          "lat": 55.807794,
+          "lng": 37.638699
+        },
+        "metro_stations": [
+          {
+            "station_name": "Алексеевская",
+            "line_name": "Калужско-Рижская",
+            "station_id": "6.8",
+            "line_id": "6",
+            "lat": 55.807794,
+            "lng": 37.638699
+          }
+        ],
+        "id": "525394"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-17T12:36:08+0300",
+      "created_at": "2025-07-17T12:36:08+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120081532",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/120081532?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/120081532",
+      "relations": [],
+      "employer": {
+        "id": "1455",
+        "name": "HeadHunter",
+        "url": "https://api.hh.ru/employers/1455",
+        "alternate_url": "https://hh.ru/employer/1455",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1403364.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7233124.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7233125.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1455",
+        "accredited_it_employer": true,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт работы от 3-х лет, преимущественно в e-com, ИТ, диджтал, телекоме и банкинге. Владение SQL — не бояться делать...",
+        "responsibility": "Дифференцированное ценообразование вакансий и доступов к базе резюме, учитывающих множество параметров: регион размещения, роль специалиста, количество соискателей на рынке и..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "REMOTE",
+          "name": "Удалённо"
+        },
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "150",
+          "name": "Бизнес-аналитик"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "122544255",
+      "premium": false,
+      "name": "Продуктовый маркетолог b2b",
+      "department": {
+        "id": "hh-1455-MARK",
+        "name": "HeadHunter::Департамент маркетинга"
+      },
+      "has_test": false,
+      "response_letter_required": true,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-17T12:36:08+0300",
+      "created_at": "2025-07-17T12:36:08+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=122544255",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/122544255?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/122544255",
+      "relations": [],
+      "employer": {
+        "id": "1455",
+        "name": "HeadHunter",
+        "url": "https://api.hh.ru/employers/1455",
+        "alternate_url": "https://hh.ru/employer/1455",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1403364.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7233124.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7233125.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1455",
+        "accredited_it_employer": true,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт продуктового маркетинга в B2B или B2C направления более 2х лет. Умение правильно донести ценность...",
+        "responsibility": "Разрабатывать и реализовывать Go-To-Market стратегию продуктов направления работодателей. Формировать подход к кросс-продуктовой маркетинговой отчетности и аналитике. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "REMOTE",
+          "name": "Удалённо"
+        },
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "68",
+          "name": "Менеджер по маркетингу, интернет-маркетолог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "122767173",
+      "premium": false,
+      "name": "Продуктовый аналитик",
+      "department": {
+        "id": "hh-1455-pa",
+        "name": "HeadHunter::Продуктовые аналитики"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "улица Годовикова",
+        "building": "9с10",
+        "lat": 55.809343,
+        "lng": 37.628505,
+        "description": null,
+        "raw": "Москва, улица Годовикова, 9с10",
+        "metro": {
+          "station_name": "Алексеевская",
+          "line_name": "Калужско-Рижская",
+          "station_id": "6.8",
+          "line_id": "6",
+          "lat": 55.807794,
+          "lng": 37.638699
+        },
+        "metro_stations": [
+          {
+            "station_name": "Алексеевская",
+            "line_name": "Калужско-Рижская",
+            "station_id": "6.8",
+            "line_id": "6",
+            "lat": 55.807794,
+            "lng": 37.638699
+          }
+        ],
+        "id": "525394"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-14T13:09:03+0300",
+      "created_at": "2025-07-14T13:09:03+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=122767173",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/122767173?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/122767173",
+      "relations": [],
+      "employer": {
+        "id": "1455",
+        "name": "HeadHunter",
+        "url": "https://api.hh.ru/employers/1455",
+        "alternate_url": "https://hh.ru/employer/1455",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1403364.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7233124.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7233125.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1455",
+        "accredited_it_employer": true,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт в продуктовой аналитике от 2-х лет. Отличное знание SQL – это один из основных инструментов и лучший друг аналитика...",
+        "responsibility": "Мы применяем Data Informed подход при принятии продуктовых решений, а нашу компанию можем смело охарактеризовать как «Data Driven». "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "REMOTE",
+          "name": "Удалённо"
+        },
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "164",
+          "name": "Продуктовый аналитик"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "122767193",
+      "premium": false,
+      "name": "Менеджер продукта",
+      "department": {
+        "id": "hh-1455-product",
+        "name": "HeadHunter::Product Management"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "улица Годовикова",
+        "building": "9с10",
+        "lat": 55.809343,
+        "lng": 37.628505,
+        "description": null,
+        "raw": "Москва, улица Годовикова, 9с10",
+        "metro": {
+          "station_name": "Алексеевская",
+          "line_name": "Калужско-Рижская",
+          "station_id": "6.8",
+          "line_id": "6",
+          "lat": 55.807794,
+          "lng": 37.638699
+        },
+        "metro_stations": [
+          {
+            "station_name": "Алексеевская",
+            "line_name": "Калужско-Рижская",
+            "station_id": "6.8",
+            "line_id": "6",
+            "lat": 55.807794,
+            "lng": 37.638699
+          }
+        ],
+        "id": "525394"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-14T13:09:22+0300",
+      "created_at": "2025-07-14T13:09:22+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=122767193",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/122767193?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/122767193",
+      "relations": [],
+      "employer": {
+        "id": "1455",
+        "name": "HeadHunter",
+        "url": "https://api.hh.ru/employers/1455",
+        "alternate_url": "https://hh.ru/employer/1455",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1403364.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7233124.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7233125.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1455",
+        "accredited_it_employer": true,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт работы в роли продакт-менеджера от 3-х лет в ИТ дата-дривен компаниях. Навык постановки задач и управления...",
+        "responsibility": "Ты сможешь влиять на ключевые решения: участвовать в формировании roadmap и стратегии продукта, а не просто исполнять спущенные сверху задачи. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "73",
+          "name": "Менеджер продукта"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "122927582",
+      "premium": false,
+      "name": "Продуктовый маркетолог / маркетинг-менеджер Middle (ГПХ/самозанятость)",
+      "department": {
+        "id": "hh-1455-MARK",
+        "name": "HeadHunter::Департамент маркетинга"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-17T11:21:20+0300",
+      "created_at": "2025-07-17T11:21:20+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=122927582",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/122927582?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/122927582",
+      "relations": [],
+      "employer": {
+        "id": "1455",
+        "name": "HeadHunter",
+        "url": "https://api.hh.ru/employers/1455",
+        "alternate_url": "https://hh.ru/employer/1455",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1403364.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7233124.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7233125.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1455",
+        "accredited_it_employer": true,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт работы маркетологом / продуктовым маркетологом / продактом. Системное мышление. Любовь к работе с данными, умение их интерпретировать и принимать обоснованные решения. ",
+        "responsibility": "Участвовать в разработке и реализации маркетинговой стратегии продукта. Исследовать аудиторию, выявлять потребности, поведение и точки роста. Анализировать и улучшать текущие..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "REMOTE",
+          "name": "Удалённо"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "68",
+          "name": "Менеджер по маркетингу, интернет-маркетолог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "122480691",
+      "premium": false,
+      "name": "Event-менеджер",
+      "department": {
+        "id": "hh-1455-MARK",
+        "name": "HeadHunter::Департамент маркетинга"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "улица Годовикова",
+        "building": "9с10",
+        "lat": 55.809343,
+        "lng": 37.628505,
+        "description": null,
+        "raw": "Москва, улица Годовикова, 9с10",
+        "metro": {
+          "station_name": "Алексеевская",
+          "line_name": "Калужско-Рижская",
+          "station_id": "6.8",
+          "line_id": "6",
+          "lat": 55.807794,
+          "lng": 37.638699
+        },
+        "metro_stations": [
+          {
+            "station_name": "Алексеевская",
+            "line_name": "Калужско-Рижская",
+            "station_id": "6.8",
+            "line_id": "6",
+            "lat": 55.807794,
+            "lng": 37.638699
+          }
+        ],
+        "id": "525394"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-17T12:36:09+0300",
+      "created_at": "2025-07-17T12:36:09+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=122480691",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/122480691?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/122480691",
+      "relations": [],
+      "employer": {
+        "id": "1455",
+        "name": "HeadHunter",
+        "url": "https://api.hh.ru/employers/1455",
+        "alternate_url": "https://hh.ru/employer/1455",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1403364.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7233124.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7233125.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1455",
+        "accredited_it_employer": true,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Имеешь опыт интеграции в партнёрские мероприятия, ведение ивент календаря, работа со спикерами. Имеешь опыт работы в организации собственных мероприятий (офлайн...",
+        "responsibility": "Организация партнёрских интеграций в ключевые отраслевые мероприятия и BTL. Организация выступлений спикеров hh.ru. Ведение ивент календаря, актуализация ключевых событий отрасли..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "1",
+          "name": "Event-менеджер"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "122542299",
+      "premium": false,
+      "name": "Директор по внешним коммуникациям и PR",
+      "department": {
+        "id": "hh-1455-MARK",
+        "name": "HeadHunter::Департамент маркетинга"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "улица Годовикова",
+        "building": "9с10",
+        "lat": 55.809343,
+        "lng": 37.628505,
+        "description": null,
+        "raw": "Москва, улица Годовикова, 9с10",
+        "metro": {
+          "station_name": "Алексеевская",
+          "line_name": "Калужско-Рижская",
+          "station_id": "6.8",
+          "line_id": "6",
+          "lat": 55.807794,
+          "lng": 37.638699
+        },
+        "metro_stations": [
+          {
+            "station_name": "Алексеевская",
+            "line_name": "Калужско-Рижская",
+            "station_id": "6.8",
+            "line_id": "6",
+            "lat": 55.807794,
+            "lng": 37.638699
+          }
+        ],
+        "id": "525394"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-17T12:36:09+0300",
+      "created_at": "2025-07-17T12:36:09+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=122542299",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/122542299?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/122542299",
+      "relations": [],
+      "employer": {
+        "id": "1455",
+        "name": "HeadHunter",
+        "url": "https://api.hh.ru/employers/1455",
+        "alternate_url": "https://hh.ru/employer/1455",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1403364.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7233124.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7233125.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1455",
+        "accredited_it_employer": true,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт от 5 лет на руководящих позициях в PR. Портфолио/ссылки на публичные проекты. Опыт реализации федеральный и/или отраслевых...",
+        "responsibility": "Разрабатывать и реализовывать PR-стратегию с целью укрепления позиций бренда как лидера в своем сегменте. Поддерживать отношения и формировать новые..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "2",
+          "name": "PR-менеджер"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "moreThan6",
+        "name": "Более 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123157138",
+      "premium": false,
+      "name": "AppSec инженер",
+      "department": {
+        "id": "hh-1455-ib",
+        "name": "HeadHunter::Информационная безопасность"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "улица Годовикова",
+        "building": "9с10",
+        "lat": 55.809343,
+        "lng": 37.628505,
+        "description": null,
+        "raw": "Москва, улица Годовикова, 9с10",
+        "metro": {
+          "station_name": "Алексеевская",
+          "line_name": "Калужско-Рижская",
+          "station_id": "6.8",
+          "line_id": "6",
+          "lat": 55.807794,
+          "lng": 37.638699
+        },
+        "metro_stations": [
+          {
+            "station_name": "Алексеевская",
+            "line_name": "Калужско-Рижская",
+            "station_id": "6.8",
+            "line_id": "6",
+            "lat": 55.807794,
+            "lng": 37.638699
+          }
+        ],
+        "id": "525394"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-23T15:57:30+0300",
+      "created_at": "2025-07-23T15:57:30+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123157138",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123157138?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123157138",
+      "relations": [],
+      "employer": {
+        "id": "1455",
+        "name": "HeadHunter",
+        "url": "https://api.hh.ru/employers/1455",
+        "alternate_url": "https://hh.ru/employer/1455",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1403364.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7233124.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7233125.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1455",
+        "accredited_it_employer": true,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт работы с языками Java, Python, JavaScript, Go (чтение, анализ кода, выявление уязвимостей). Опыт проведения security code review и threat...",
+        "responsibility": "Разбор отчетов Bugbounty. Разработка и внедрение процессов безопасной разработки (Secure SDLC). Проведение SAST, DAST, SCA и IaC Security-сканирования. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "REMOTE",
+          "name": "Удалённо"
+        },
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "OTHER",
+          "name": "Другое"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "40",
+          "name": "Другое"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "119801587",
+      "premium": false,
+      "name": "Аналитик данных (коммерческая аналитика)",
+      "department": {
+        "id": "hh-1455-ba",
+        "name": "HeadHunter::Бизнес аналитики"
+      },
+      "has_test": false,
+      "response_letter_required": true,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "улица Годовикова",
+        "building": "9с10",
+        "lat": 55.809343,
+        "lng": 37.628505,
+        "description": null,
+        "raw": "Москва, улица Годовикова, 9с10",
+        "metro": {
+          "station_name": "Алексеевская",
+          "line_name": "Калужско-Рижская",
+          "station_id": "6.8",
+          "line_id": "6",
+          "lat": 55.807794,
+          "lng": 37.638699
+        },
+        "metro_stations": [
+          {
+            "station_name": "Алексеевская",
+            "line_name": "Калужско-Рижская",
+            "station_id": "6.8",
+            "line_id": "6",
+            "lat": 55.807794,
+            "lng": 37.638699
+          }
+        ],
+        "id": "525394"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-14T08:43:52+0300",
+      "created_at": "2025-07-14T08:43:52+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=119801587",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/119801587?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/119801587",
+      "relations": [],
+      "employer": {
+        "id": "1455",
+        "name": "HeadHunter",
+        "url": "https://api.hh.ru/employers/1455",
+        "alternate_url": "https://hh.ru/employer/1455",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1403364.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7233124.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7233125.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1455",
+        "accredited_it_employer": true,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Продвинутый уровень SQL (виды джойнов, подзапросы, аналитические функции, оптимизация запросов, оконные функции). Знание инструментов визуализации (FineBI, Tableau , PowerBI). ",
+        "responsibility": "Формирование выгрузок с помощью SQL-запросов. Взаимодействие с разработчиками БД по вопросам качества данных. Анализ данных о поведении клиентов из..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "156",
+          "name": "BI-аналитик, аналитик данных"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "121440772",
+      "premium": false,
+      "name": "Старший юрист по договорной работе",
+      "department": {
+        "id": "hh-1455-JUR",
+        "name": "HeadHunter::Юридический департамент"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "улица Годовикова",
+        "building": "9с10",
+        "lat": 55.809343,
+        "lng": 37.628505,
+        "description": null,
+        "raw": "Москва, улица Годовикова, 9с10",
+        "metro": {
+          "station_name": "Алексеевская",
+          "line_name": "Калужско-Рижская",
+          "station_id": "6.8",
+          "line_id": "6",
+          "lat": 55.807794,
+          "lng": 37.638699
+        },
+        "metro_stations": [
+          {
+            "station_name": "Алексеевская",
+            "line_name": "Калужско-Рижская",
+            "station_id": "6.8",
+            "line_id": "6",
+            "lat": 55.807794,
+            "lng": 37.638699
+          }
+        ],
+        "id": "525394"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-17T12:36:08+0300",
+      "created_at": "2025-07-17T12:36:08+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121440772",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/121440772?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/121440772",
+      "relations": [],
+      "employer": {
+        "id": "1455",
+        "name": "HeadHunter",
+        "url": "https://api.hh.ru/employers/1455",
+        "alternate_url": "https://hh.ru/employer/1455",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1403364.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7233124.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7233125.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1455",
+        "accredited_it_employer": true,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Высшее юридическое образование. Опыт от 5 лет договорной работы, в том числе в государственных (44ФЗ, 223ФЗ) и коммерческих...",
+        "responsibility": "Договорная работа (согласование договоров), оценка рисков, анализ государственных и муниципальных контрактов, заключаемых согласно 44ФЗ и 223ФЗ, составление договоров..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "146",
+          "name": "Юрист"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "moreThan6",
+        "name": "Более 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "122923438",
+      "premium": false,
+      "name": "Product/Продакт-менеджер в Trust&Safety",
+      "department": {
+        "id": "hh-1455-product",
+        "name": "HeadHunter::Product Management"
+      },
+      "has_test": false,
+      "response_letter_required": true,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-17T10:42:16+0300",
+      "created_at": "2025-07-17T10:42:16+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=122923438",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/122923438?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/122923438",
+      "relations": [],
+      "employer": {
+        "id": "1455",
+        "name": "HeadHunter",
+        "url": "https://api.hh.ru/employers/1455",
+        "alternate_url": "https://hh.ru/employer/1455",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1403364.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7233124.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7233125.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1455",
+        "accredited_it_employer": true,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт создания и масштабирования ИТ-продуктов в роли продакт-менеджера от 2-х лет, опыт работы в IT от 4...",
+        "responsibility": "Разрабатывать и развивать решения, повышающие безопасность пользователей, эффективность борьбы с мошенничеством и достоверность вакансий/профилей на площадке (включая 2FA..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "107",
+          "name": "Руководитель проектов"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "122957979",
+      "premium": false,
+      "name": "Менеджер-координатор центра продаж",
+      "department": {
+        "id": "hh-1455-ss",
+        "name": "HeadHunter::Поддержка продаж"
+      },
+      "has_test": false,
+      "response_letter_required": true,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 85000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 85000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": null
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "улица Годовикова",
+        "building": "9с10",
+        "lat": 55.809343,
+        "lng": 37.628505,
+        "description": null,
+        "raw": "Москва, улица Годовикова, 9с10",
+        "metro": {
+          "station_name": "Алексеевская",
+          "line_name": "Калужско-Рижская",
+          "station_id": "6.8",
+          "line_id": "6",
+          "lat": 55.807794,
+          "lng": 37.638699
+        },
+        "metro_stations": [
+          {
+            "station_name": "Алексеевская",
+            "line_name": "Калужско-Рижская",
+            "station_id": "6.8",
+            "line_id": "6",
+            "lat": 55.807794,
+            "lng": 37.638699
+          }
+        ],
+        "id": "525394"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-17T18:12:21+0300",
+      "created_at": "2025-07-17T18:12:21+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=122957979",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/122957979?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/122957979",
+      "relations": [],
+      "employer": {
+        "id": "1455",
+        "name": "HeadHunter",
+        "url": "https://api.hh.ru/employers/1455",
+        "alternate_url": "https://hh.ru/employer/1455",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1403364.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7233124.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7233125.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1455",
+        "accredited_it_employer": true,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "У тебя есть опыт работы в сфере клиентского сопровождения или ассистентом менеджера по продажам. Ты — настоящий ас переписки и общения...",
+        "responsibility": "Ставить задачи по запросу менеджера по продажам и следить за тем, чтобы они выполнялись. Например, задачи на создание новой учетной..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "54",
+          "name": "Координатор отдела продаж"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123104275",
+      "premium": false,
+      "name": "Младший менеджер по маркетингу В2В/В2С",
+      "department": {
+        "id": "hh-1455-MARK",
+        "name": "HeadHunter::Департамент маркетинга"
+      },
+      "has_test": false,
+      "response_letter_required": true,
+      "area": {
+        "id": "66",
+        "name": "Нижний Новгород",
+        "url": "https://api.hh.ru/areas/66"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Нижний Новгород",
+        "street": "Алексеевская улица",
+        "building": "6/16",
+        "lat": 56.324546,
+        "lng": 44.005753,
+        "description": null,
+        "raw": "Нижний Новгород, Алексеевская улица, 6/16",
+        "metro": null,
+        "metro_stations": [],
+        "id": "11447051"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-22T13:22:46+0300",
+      "created_at": "2025-07-22T13:22:46+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123104275",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123104275?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123104275",
+      "relations": [],
+      "employer": {
+        "id": "1455",
+        "name": "HeadHunter",
+        "url": "https://api.hh.ru/employers/1455",
+        "alternate_url": "https://hh.ru/employer/1455",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1403364.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7233124.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7233125.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1455",
+        "accredited_it_employer": true,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт работы в маркетинге от 2х лет. Опыт публичных выступлений. Опыт проведения переговоров с партнерами и подрядчиками, составление ТЗ. ",
+        "responsibility": "Анализ конкурентов, целевой аудитории и ее инсайтов на территории. Планирование и реализация маркетинговых активностей, их контроль и оценка эффективности. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "68",
+          "name": "Менеджер по маркетингу, интернет-маркетолог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    }
+  ],
+  "found": 56,
+  "pages": 3,
+  "page": 0,
+  "per_page": 25,
+  "clusters": null,
+  "arguments": null,
+  "fixes": null,
+  "suggests": null,
+  "alternate_url": "https://hh.ru/search/vacancy?employer_id=1455&enable_snippets=true&items_on_page=25"
+}

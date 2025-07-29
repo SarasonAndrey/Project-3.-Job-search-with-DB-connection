@@ -1,0 +1,29 @@
+{
+  "companies": [
+    {
+      "company_name": "Яндекс",
+      "vacancies_count": 25
+    },
+    {
+      "company_name": "Сбер",
+      "vacancies_count": 25
+    },
+    {
+      "company_name": "Тинькофф",
+      "vacancies_count": 25
+    },
+    {
+      "company_name": "HeadHunter",
+      "vacancies_count": 25
+    },
+    {
+      "company_name": "Mail.ru",
+      "vacancies_count": 25
+    },
+    {
+      "company_name": "Ozon",
+      "vacancies_count": 7
+    }
+  ],
+  "all_vacancies_count": 82,
+  "avg_salary": 

@@ -1,0 +1,874 @@
+{
+  "items": [
+    {
+      "id": "123103747",
+      "premium": false,
+      "name": "Руководитель отдела маркетинга",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": true,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-22T13:15:11+0300",
+      "created_at": "2025-07-22T13:15:11+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123103747",
+      "show_logo_in_search": null,
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123103747?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123103747",
+      "relations": [],
+      "employer": {
+        "id": "2108",
+        "name": "СТРОЙ-CITY",
+        "url": "https://api.hh.ru/employers/2108",
+        "alternate_url": "https://hh.ru/employer/2108",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/976987.jpeg",
+          "90": "https://img.hhcdn.ru/employer-logo/5528784.jpeg",
+          "240": "https://img.hhcdn.ru/employer-logo/5528785.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2108",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Наличие опыта работы в загородной премиум недвижимости будет плюсом. Понимание digital-инструментов. Системность. Внимательность к деталям. Активная позиция ​​​​​​.",
+        "responsibility": "Функционал: Выстраивание всех маркетинговых процессов с \"0\". Предложение «упаковки поселка». Аналитика конкурентов, их каналов продвижения. Предложение и защита маркетингового бюджета. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "170",
+          "name": "Руководитель отдела маркетинга и рекламы"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "122343242",
+      "premium": false,
+      "name": "Менеджер по продажам (Север Москвы и Московская область)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 150000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 150000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": null
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "Ленинградское шоссе",
+        "building": "57к2",
+        "lat": 55.854891,
+        "lng": 37.465524,
+        "description": null,
+        "raw": "Москва, Ленинградское шоссе, 57к2",
+        "metro": {
+          "station_name": "Речной вокзал",
+          "line_name": "Замоскворецкая",
+          "station_id": "2.125",
+          "line_id": "2",
+          "lat": 55.854152,
+          "lng": 37.476728
+        },
+        "metro_stations": [
+          {
+            "station_name": "Речной вокзал",
+            "line_name": "Замоскворецкая",
+            "station_id": "2.125",
+            "line_id": "2",
+            "lat": 55.854152,
+            "lng": 37.476728
+          }
+        ],
+        "id": "6864496"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-03T11:12:14+0300",
+      "created_at": "2025-07-03T11:12:14+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=122343242",
+      "show_logo_in_search": null,
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/122343242?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/122343242",
+      "relations": [],
+      "employer": {
+        "id": "2108",
+        "name": "СТРОЙ-CITY",
+        "url": "https://api.hh.ru/employers/2108",
+        "alternate_url": "https://hh.ru/employer/2108",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/976987.jpeg",
+          "90": "https://img.hhcdn.ru/employer-logo/5528784.jpeg",
+          "240": "https://img.hhcdn.ru/employer-logo/5528785.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2108",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт о продажах B-to-B и переговорах. Мобильность и готовность к активным поездкам по Северу Москвы и Московской области. ",
+        "responsibility": "Посещение действующих клиентов, увеличение поставок, презентация новинок, расширение товарной матрицы. Открытие новых клиентов, их «подключение», демонстрация образцов, обсуждение условий сотрудничества. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "70",
+          "name": "Менеджер по продажам, менеджер по работе с клиентами"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "122242631",
+      "premium": false,
+      "name": "Менеджер по продажам",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "66",
+        "name": "Нижний Новгород",
+        "url": "https://api.hh.ru/areas/66"
+      },
+      "salary": {
+        "from": 130000,
+        "to": 150000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "salary_range": {
+        "from": 130000,
+        "to": 150000,
+        "currency": "RUR",
+        "gross": false,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": null
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-01T11:03:34+0300",
+      "created_at": "2025-07-01T11:03:34+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=122242631",
+      "show_logo_in_search": null,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/122242631?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/122242631",
+      "relations": [],
+      "employer": {
+        "id": "2108",
+        "name": "СТРОЙ-CITY",
+        "url": "https://api.hh.ru/employers/2108",
+        "alternate_url": "https://hh.ru/employer/2108",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/976987.jpeg",
+          "90": "https://img.hhcdn.ru/employer-logo/5528784.jpeg",
+          "240": "https://img.hhcdn.ru/employer-logo/5528785.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2108",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт в продажах B-to-B и переговорах. Готовность много перемещаться и понимание из чего формируется доход торгового представителя. ",
+        "responsibility": "Работа в режиме Хоум-офиса в городе Нижний Новгород/ Киров (Нижегородская, Кировская область, а также Республика КОМИ). Развитие клиентов на..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "129",
+          "name": "Торговый представитель"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "122608594",
+      "premium": false,
+      "name": "Водитель-экспедитор с личным автомобилем",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Новомосковский административный округ",
+        "street": "Залинейный переулок",
+        "building": "2",
+        "lat": 55.481408,
+        "lng": 37.555732,
+        "description": null,
+        "raw": "Новомосковский административный округ, Залинейный переулок, 2",
+        "metro": null,
+        "metro_stations": [],
+        "id": "6736618"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-10T08:41:12+0300",
+      "created_at": "2025-07-10T08:41:12+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=122608594",
+      "show_logo_in_search": null,
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/122608594?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/122608594",
+      "relations": [],
+      "employer": {
+        "id": "2108",
+        "name": "СТРОЙ-CITY",
+        "url": "https://api.hh.ru/employers/2108",
+        "alternate_url": "https://hh.ru/employer/2108",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/976987.jpeg",
+          "90": "https://img.hhcdn.ru/employer-logo/5528784.jpeg",
+          "240": "https://img.hhcdn.ru/employer-logo/5528785.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2108",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Личный автомобиль, вместимостью 5 тонн.",
+        "responsibility": "Доставки грузов получателю. Работа по Москве и МО. Склад погрузки Москва, Рязановское поселение, переулок Залинейный, 2."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "FIELD_WORK",
+          "name": "Разъездной"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "21",
+          "name": "Водитель"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123143086",
+      "premium": false,
+      "name": "SMM-специалист с функцией PR",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 50000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false
+      },
+      "salary_range": {
+        "from": 50000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": null
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "Ленинградское шоссе",
+        "building": "57к2",
+        "lat": 55.854891,
+        "lng": 37.465524,
+        "description": null,
+        "raw": "Москва, Ленинградское шоссе, 57к2",
+        "metro": {
+          "station_name": "Речной вокзал",
+          "line_name": "Замоскворецкая",
+          "station_id": "2.125",
+          "line_id": "2",
+          "lat": 55.854152,
+          "lng": 37.476728
+        },
+        "metro_stations": [
+          {
+            "station_name": "Речной вокзал",
+            "line_name": "Замоскворецкая",
+            "station_id": "2.125",
+            "line_id": "2",
+            "lat": 55.854152,
+            "lng": 37.476728
+          }
+        ],
+        "id": "6864496"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-23T12:11:37+0300",
+      "created_at": "2025-07-23T12:11:37+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123143086",
+      "show_logo_in_search": null,
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123143086?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123143086",
+      "relations": [],
+      "employer": {
+        "id": "2108",
+        "name": "СТРОЙ-CITY",
+        "url": "https://api.hh.ru/employers/2108",
+        "alternate_url": "https://hh.ru/employer/2108",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/976987.jpeg",
+          "90": "https://img.hhcdn.ru/employer-logo/5528784.jpeg",
+          "240": "https://img.hhcdn.ru/employer-logo/5528785.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2108",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Навыки, которые нам важны: Hard skills: — Написание текстов в живом, эстетичном и вовлекающем стиле. — Умение снимать и монтировать видео (Reels...",
+        "responsibility": "SMM и контент: * Ведение социальных сетей проекта: Instagram, Telegram (лента, сторис, рилсы, посты). * Подготовка и согласование контент-материалов, работа с..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "OTHER",
+          "name": "Другое"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "OTHER",
+          "name": "Другое"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "3",
+          "name": "SMM-менеджер, контент-менеджер"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "122746636",
+      "premium": false,
+      "name": "Торговый представитель",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "87",
+        "name": "Тамбов",
+        "url": "https://api.hh.ru/areas/87"
+      },
+      "salary": {
+        "from": 100000,
+        "to": 150000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "salary_range": {
+        "from": 100000,
+        "to": 150000,
+        "currency": "RUR",
+        "gross": false,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "TWICE_PER_MONTH",
+          "name": "Два раза в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-14T09:07:09+0300",
+      "created_at": "2025-07-14T09:07:09+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=122746636",
+      "show_logo_in_search": null,
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/122746636?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/122746636",
+      "relations": [],
+      "employer": {
+        "id": "2108",
+        "name": "СТРОЙ-CITY",
+        "url": "https://api.hh.ru/employers/2108",
+        "alternate_url": "https://hh.ru/employer/2108",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/976987.jpeg",
+          "90": "https://img.hhcdn.ru/employer-logo/5528784.jpeg",
+          "240": "https://img.hhcdn.ru/employer-logo/5528785.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2108",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт в продажах B-to-B. Готовность много перемещаться и понимание из чего формируется доход торгового представителя. Отличные коммуникативные навыки...",
+        "responsibility": "Развитие клиентов на территории Тамбовской и Липецкой обл., расширение в рамках товарной матрицы, вывод новинок на рынок. Открытие новых клиентов..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "FIELD_WORK",
+          "name": "Разъездной"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "129",
+          "name": "Торговый представитель"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "122883016",
+      "premium": false,
+      "name": "Менеджер по работе с клиентами",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1825",
+        "name": "Старый Оскол",
+        "url": "https://api.hh.ru/areas/1825"
+      },
+      "salary": {
+        "from": 60000,
+        "to": 65000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "salary_range": {
+        "from": 60000,
+        "to": 65000,
+        "currency": "RUR",
+        "gross": false,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "TWICE_PER_MONTH",
+          "name": "Два раза в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Старый Оскол",
+        "street": "Комсомольский проспект",
+        "building": "8А",
+        "lat": 51.280275,
+        "lng": 37.815902,
+        "description": null,
+        "raw": "Старый Оскол, Комсомольский проспект, 8А",
+        "metro": null,
+        "metro_stations": [],
+        "id": "5506634"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-16T17:00:24+0300",
+      "created_at": "2025-07-16T17:00:24+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=122883016",
+      "show_logo_in_search": null,
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/122883016?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/122883016",
+      "relations": [],
+      "employer": {
+        "id": "2108",
+        "name": "СТРОЙ-CITY",
+        "url": "https://api.hh.ru/employers/2108",
+        "alternate_url": "https://hh.ru/employer/2108",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/976987.jpeg",
+          "90": "https://img.hhcdn.ru/employer-logo/5528784.jpeg",
+          "240": "https://img.hhcdn.ru/employer-logo/5528785.jpeg"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=2108",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Образование не ниже среднего-специального (возможно студенты последних курсов, готовые совмещать учебу с очной работой). Уверенный пользователь ПК: обязательно знание...",
+        "responsibility": "Оформление отгрузочных документов, выставление счетов. Взаимодействие с клиентами, исполнение и контроль соблюдения договорённостей. Знание товара, работа в 1С. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "70",
+          "name": "Менеджер по продажам, менеджер по работе с клиентами"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    }
+  ],
+  "found": 7,
+  "pages": 1,
+  "page": 0,
+  "per_page": 25,
+  "clusters": null,
+  "arguments": null,
+  "fixes": null,
+  "suggests": null,
+  "alternate_url": "https://hh.ru/search/vacancy?employer_id=2108&enable_snippets=true&items_on_page=25"
+}
