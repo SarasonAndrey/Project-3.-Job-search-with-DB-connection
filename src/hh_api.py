@@ -1,7 +1,9 @@
+from typing import Any, Dict, List, Optional
+
 import requests
 
 
-def get_known_employers():
+def get_known_employers() -> Dict[str, str]:
     """Возвращает словарь известных работодателей с их ID."""
     return {
         "Яндекс": "1740",
@@ -17,7 +19,9 @@ def get_known_employers():
     }
 
 
-def get_vacancies_by_employer(employer_id, per_page=50):
+def get_vacancies_by_employer(
+    employer_id: str, per_page: int = 50
+) -> List[Dict[str, Any]]:
     """Получает вакансии по ID работодателя."""
     try:
         url = "https://api.hh.ru/vacancies"
@@ -30,15 +34,13 @@ def get_vacancies_by_employer(employer_id, per_page=50):
         if response.status_code == 200:
             data = response.json()
             return data["items"]
-        else:
-            print(f"HTTP ошибка {response.status_code} для работодателя {employer_id}")
         return []
     except Exception as e:
         print(f"Ошибка при получении вакансий: {e}")
         return []
 
 
-def get_vacancy_salary(vacancy):
+def get_vacancy_salary(vacancy: Dict[str, Any]) -> Optional[int]:
     """Извлекает зарплату из вакансии."""
     salary = vacancy.get("salary")
     if salary and salary.get("currency") in ["RUR", "RUB"]:
@@ -51,7 +53,9 @@ def get_vacancy_salary(vacancy):
     return None
 
 
-def search_vacancies_general(search_text, area="113", per_page=30):
+def search_vacancies_general(
+    search_text: str, area: str = "113", per_page: int = 30
+) -> List[Dict[str, Any]]:
     """Поиск вакансий по общему тексту."""
     try:
         url = "https://api.hh.ru/vacancies"

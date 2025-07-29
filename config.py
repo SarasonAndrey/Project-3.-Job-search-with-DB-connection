@@ -1,15 +1,22 @@
-from configparser import ConfigParser
+import os
+from typing import Dict
+
+from dotenv import load_dotenv
 
 
-def config(filename="database.ini", section="postgresql"):
-    """Читает параметры подключения к базе данных."""
-    parser = ConfigParser()
-    parser.read(filename)
+def config() -> Dict[str, str]:
+    """Читает параметры подключения к базе данных из .env файла или переменных окружения."""
+    load_dotenv()
 
-    if parser.has_section(section):
-        params = parser.items(section)
-        db = {param[0]: param[1] for param in params}
-    else:
-        raise Exception(f"Секция '{section}' не найдена в файле '{filename}'.")
+    db: Dict[str, str] = {
+        "host": os.getenv("DB_HOST", "localhost"),
+        "user": os.getenv("DB_USER", "postgres"),
+        "password": os.getenv("DB_PASSWORD", ""),
+    }
+
+    if not db["password"]:
+        raise Exception(
+            "Задайте переменные окружения: DB_HOST, DB_DATABASE, DB_USER, DB_PASSWORD"
+        )
 
     return db

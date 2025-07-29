@@ -1,29 +1,27 @@
+from typing import Any, Dict, List, Optional, Union
+
 import psycopg2
 
 
 class DBManager:
     """Класс для управления подключением к базе данных PostgreSQL."""
 
-    def __init__(self, dbname, params):
+    def __init__(self, dbname: str, params: Dict[str, str]) -> None:
         """Инициализирует подключение к базе данных."""
-        try:
-            self.dbname = dbname
-            self.params = params
-            self.conn = None
-            self.cur = None
-            self._connect()
-        except psycopg2.Error as e:
-            print(f"Ошибка подключения к базе данных: {e}")
-            raise
+        self.dbname: str = dbname
+        self.params: Dict[str, str] = params
+        self.conn: Optional[Any] = None
+        self.cur: Optional[Any] = None
+        self._connect()
 
-    def _connect(self):
+    def _connect(self) -> None:
         """Устанавливает соединение с базой данных."""
         if self.conn:
             self.close_connection()
         self.conn = psycopg2.connect(dbname=self.dbname, **self.params)
         self.cur = self.conn.cursor()
 
-    def get_companies_and_vacancies_count(self):
+    def get_companies_and_vacancies_count(self) -> List[Dict[str, Union[str, int]]]:
         """Получает список всех компаний и количество вакансий."""
         try:
             self._connect()
@@ -42,7 +40,7 @@ class DBManager:
             print(f"Ошибка при получении компаний: {e}")
             return []
 
-    def get_all_vacancies(self):
+    def get_all_vacancies(self) -> List[Dict[str, Union[str, int, None]]]:
         """Получает список всех вакансий."""
         try:
             self._connect()
@@ -51,7 +49,7 @@ class DBManager:
                 FROM vacancies v
                 JOIN employers e ON v.employer_id = e.employers_id
                 ORDER BY e.company_names, v.salary DESC NULLS LAST
-                """
+            """
             self.cur.execute(query)
             results = self.cur.fetchall()
             self.cur.close()
@@ -68,7 +66,7 @@ class DBManager:
             print(f"Ошибка при получении вакансий: {e}")
             return []
 
-    def get_avg_salary(self):
+    def get_avg_salary(self) -> float:
         """Получает среднюю зарплату по вакансиям."""
         try:
             self._connect()
@@ -85,7 +83,9 @@ class DBManager:
             print(f"Ошибка при получении средней зарплаты: {e}")
             return 0
 
-    def get_vacancies_with_higher_salary(self):
+    def get_vacancies_with_higher_salary(
+        self,
+    ) -> List[Dict[str, Union[str, int, None]]]:
         """Получает вакансии с зарплатой выше средней."""
         try:
             self._connect()
@@ -113,7 +113,9 @@ class DBManager:
             print(f"Ошибка при получении вакансий с высокой зарплатой: {e}")
             return []
 
-    def get_vacancies_with_keyword(self, keyword):
+    def get_vacancies_with_keyword(
+        self, keyword: str
+    ) -> List[Dict[str, Union[str, int, None]]]:
         """Получает вакансии по ключевому слову."""
         try:
             self._connect()
@@ -141,13 +143,13 @@ class DBManager:
             print(f"Ошибка при поиске вакансий по ключевому слову: {e}")
             return []
 
-    def close_connection(self):
-        """Закрывает соединение с базой данных."""
+    def close_connection(self) -> None:
+        """Закрывает соединение с базе данных."""
         if hasattr(self, "cur") and self.cur:
             self.cur.close()
         if hasattr(self, "conn") and self.conn:
             self.conn.close()
 
-    def __del__(self):
+    def __del__(self) -> None:
         """Деструктор класса."""
         self.close_connection()
