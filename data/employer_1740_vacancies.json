@@ -1,0 +1,3038 @@
+{
+  "items": [
+    {
+      "id": "123352133",
+      "premium": false,
+      "name": "Event-менеджер в команду Яндекс Практикум B2B",
+      "department": {
+        "id": "yandex-1740-yandex",
+        "name": "Яндекс"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "Садовническая улица",
+        "building": "82с2",
+        "lat": 55.735525,
+        "lng": 37.642474,
+        "description": null,
+        "raw": "Москва, Садовническая улица, 82с2",
+        "metro": {
+          "station_name": "Павелецкая",
+          "line_name": "Замоскворецкая",
+          "station_id": "2.101",
+          "line_id": "2",
+          "lat": 55.729741,
+          "lng": 37.638693
+        },
+        "metro_stations": [
+          {
+            "station_name": "Павелецкая",
+            "line_name": "Замоскворецкая",
+            "station_id": "2.101",
+            "line_id": "2",
+            "lat": 55.729741,
+            "lng": 37.638693
+          },
+          {
+            "station_name": "Павелецкая",
+            "line_name": "Кольцевая",
+            "station_id": "5.102",
+            "line_id": "5",
+            "lat": 55.731414,
+            "lng": 37.636294
+          },
+          {
+            "station_name": "Таганская",
+            "line_name": "Таганско-Краснопресненская",
+            "station_id": "7.77",
+            "line_id": "7",
+            "lat": 55.739502,
+            "lng": 37.653605
+          }
+        ],
+        "id": "5963114"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-29T10:11:29+0300",
+      "created_at": "2025-07-29T10:11:29+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123352133",
+      "show_logo_in_search": null,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123352133?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123352133",
+      "relations": [],
+      "employer": {
+        "id": "1740",
+        "name": "Яндекс",
+        "url": "https://api.hh.ru/employers/1740",
+        "alternate_url": "https://hh.ru/employer/1740",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/837491.png",
+          "90": "https://img.hhcdn.ru/employer-logo/3790847.png",
+          "240": "https://img.hhcdn.ru/employer-logo/3790848.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1740",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "От 3-х лет в организации онлайн и офлайн мероприятий в сфере ИТ; Умеете вести много проектов сразу; имеете развитые...",
+        "responsibility": "Планирование мероприятий: Определение целей, даты, формата и бюджета мероприятия, создание подробного плана действий. Разработка программы: Подбор спикеров, согласование дат, временных..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "71",
+          "name": "Менеджер по работе с партнерами"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123393160",
+      "premium": false,
+      "name": "Старший специалист по сопровождению договоров",
+      "department": {
+        "id": "yandex-1740-yandex",
+        "name": "Яндекс"
+      },
+      "has_test": false,
+      "response_letter_required": true,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": null,
+        "street": null,
+        "building": null,
+        "lat": null,
+        "lng": null,
+        "description": null,
+        "raw": null,
+        "metro": {
+          "station_name": "Новокузнецкая",
+          "line_name": "Замоскворецкая",
+          "station_id": "2.89",
+          "line_id": "2",
+          "lat": 55.742391,
+          "lng": 37.62928
+        },
+        "metro_stations": [
+          {
+            "station_name": "Новокузнецкая",
+            "line_name": "Замоскворецкая",
+            "station_id": "2.89",
+            "line_id": "2",
+            "lat": 55.742391,
+            "lng": 37.62928
+          },
+          {
+            "station_name": "Павелецкая",
+            "line_name": "Замоскворецкая",
+            "station_id": "2.101",
+            "line_id": "2",
+            "lat": 55.729741,
+            "lng": 37.638693
+          },
+          {
+            "station_name": "Павелецкая",
+            "line_name": "Кольцевая",
+            "station_id": "5.102",
+            "line_id": "5",
+            "lat": 55.731414,
+            "lng": 37.636294
+          },
+          {
+            "station_name": "Таганская",
+            "line_name": "Таганско-Краснопресненская",
+            "station_id": "7.77",
+            "line_id": "7",
+            "lat": 55.739502,
+            "lng": 37.653605
+          }
+        ],
+        "id": "18531097"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-29T17:27:08+0300",
+      "created_at": "2025-07-29T17:27:08+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123393160",
+      "show_logo_in_search": null,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123393160?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123393160",
+      "relations": [],
+      "employer": {
+        "id": "1740",
+        "name": "Яндекс",
+        "url": "https://api.hh.ru/employers/1740",
+        "alternate_url": "https://hh.ru/employer/1740",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/837491.png",
+          "90": "https://img.hhcdn.ru/employer-logo/3790847.png",
+          "240": "https://img.hhcdn.ru/employer-logo/3790848.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1740",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Хорошо развитые управленческие навыки, опыт принятия самостоятельных решений. Высокий уровень внимательности в работе с документами. Готовность к работе с большими...",
+        "responsibility": "Анализ и регламентация существующих процессов, их описание и поддержание в актуальном состоянии. Контроль за соблюдением сроков и качества обработки входящих..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "40",
+          "name": "Другое"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123080035",
+      "premium": false,
+      "name": "Руководитель группы увольнений",
+      "department": {
+        "id": "yandex-1740-yandex",
+        "name": "Яндекс"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "Садовническая улица",
+        "building": "82с2",
+        "lat": 55.73552,
+        "lng": 37.642474,
+        "description": null,
+        "raw": "Москва, Садовническая улица, 82с2",
+        "metro": {
+          "station_name": "Павелецкая",
+          "line_name": "Замоскворецкая",
+          "station_id": "2.101",
+          "line_id": "2",
+          "lat": 55.729741,
+          "lng": 37.638693
+        },
+        "metro_stations": [
+          {
+            "station_name": "Павелецкая",
+            "line_name": "Замоскворецкая",
+            "station_id": "2.101",
+            "line_id": "2",
+            "lat": 55.729741,
+            "lng": 37.638693
+          },
+          {
+            "station_name": "Павелецкая",
+            "line_name": "Кольцевая",
+            "station_id": "5.102",
+            "line_id": "5",
+            "lat": 55.731414,
+            "lng": 37.636294
+          }
+        ],
+        "id": "840360"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-22T06:58:22+0300",
+      "created_at": "2025-07-22T06:58:22+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123080035",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123080035?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123080035",
+      "relations": [],
+      "employer": {
+        "id": "1740",
+        "name": "Яндекс",
+        "url": "https://api.hh.ru/employers/1740",
+        "alternate_url": "https://hh.ru/employer/1740",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/837491.png",
+          "90": "https://img.hhcdn.ru/employer-logo/3790847.png",
+          "240": "https://img.hhcdn.ru/employer-logo/3790848.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1740",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Получили высшее образование. Работали в руководящей должности от двух лет. Знаете кадровое делопроизводство и трудовое законодательство. Умеете работать с большим...",
+        "responsibility": "Яндекс ищет ответственного и внимательного руководителя группы увольнений в отдел административного управления персоналом. Вы будете отвечать за функции команды увольнений..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "171",
+          "name": "Руководитель отдела персонала"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123344875",
+      "premium": false,
+      "name": "Менеджер по производству",
+      "department": {
+        "id": "yandex-1740-infstr",
+        "name": "Yandex Infrastructure"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "Садовническая улица",
+        "building": "82с2",
+        "lat": 55.73552,
+        "lng": 37.642474,
+        "description": null,
+        "raw": "Москва, Садовническая улица, 82с2",
+        "metro": {
+          "station_name": "Павелецкая",
+          "line_name": "Замоскворецкая",
+          "station_id": "2.101",
+          "line_id": "2",
+          "lat": 55.729741,
+          "lng": 37.638693
+        },
+        "metro_stations": [
+          {
+            "station_name": "Павелецкая",
+            "line_name": "Замоскворецкая",
+            "station_id": "2.101",
+            "line_id": "2",
+            "lat": 55.729741,
+            "lng": 37.638693
+          },
+          {
+            "station_name": "Павелецкая",
+            "line_name": "Кольцевая",
+            "station_id": "5.102",
+            "line_id": "5",
+            "lat": 55.731414,
+            "lng": 37.636294
+          }
+        ],
+        "id": "840360"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-29T08:29:58+0300",
+      "created_at": "2025-07-29T08:29:58+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123344875",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123344875?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123344875",
+      "relations": [],
+      "employer": {
+        "id": "1740",
+        "name": "Яндекс",
+        "url": "https://api.hh.ru/employers/1740",
+        "alternate_url": "https://hh.ru/employer/1740",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/837491.png",
+          "90": "https://img.hhcdn.ru/employer-logo/3790847.png",
+          "240": "https://img.hhcdn.ru/employer-logo/3790848.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1740",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Понимаете, как работают бизнес-процессы. Имеете опыт оптимизации бизнес-процессов. Очень желательно, чтобы у вас был опыт производства серверов/компьютеров.",
+        "responsibility": "Процессы взаимодействия с производствами и контролировать их выполнение. Какие задачи вас ждут: Структурирование процессов взаимодействия с производствами. Вам предстоит структурировать..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "107",
+          "name": "Руководитель проектов"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "moreThan6",
+        "name": "Более 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "122431978",
+      "premium": false,
+      "name": "Фронтенд-разработчик в Yаndex Pay",
+      "department": {
+        "id": "yandex-1740-finteh",
+        "name": "Финтех "
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2",
+        "name": "Санкт-Петербург",
+        "url": "https://api.hh.ru/areas/2"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-04T19:31:31+0300",
+      "created_at": "2025-07-04T19:31:31+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=122431978",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/122431978?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/122431978",
+      "relations": [],
+      "employer": {
+        "id": "1740",
+        "name": "Яндекс",
+        "url": "https://api.hh.ru/employers/1740",
+        "alternate_url": "https://hh.ru/employer/1740",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/837491.png",
+          "90": "https://img.hhcdn.ru/employer-logo/3790847.png",
+          "240": "https://img.hhcdn.ru/employer-logo/3790848.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1740",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Работать над качеством и скоростью. Развивать технологии и инфраструктуру, чтобы писать код ещё быстрее и качественнее. Хорошо знаете HTML и...",
+        "responsibility": "Мы делаем интерфейсы, с помощью которых можно оплачивать покупки в интернете. Платить через Yаndex Pay можно и на внутренних сервисах..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "96",
+          "name": "Программист, разработчик"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123335156",
+      "premium": false,
+      "name": "Консультант по стратегии",
+      "department": {
+        "id": "yandex-1740-comdep",
+        "name": "Коммерческий департамент "
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "улица Льва Толстого",
+        "building": "16",
+        "lat": 55.733974,
+        "lng": 37.587093,
+        "description": null,
+        "raw": "Москва, улица Льва Толстого, 16",
+        "metro": {
+          "station_name": "Парк культуры",
+          "line_name": "Сокольническая",
+          "station_id": "1.103",
+          "line_id": "1",
+          "lat": 55.736163,
+          "lng": 37.595027
+        },
+        "metro_stations": [
+          {
+            "station_name": "Парк культуры",
+            "line_name": "Сокольническая",
+            "station_id": "1.103",
+            "line_id": "1",
+            "lat": 55.736163,
+            "lng": 37.595027
+          },
+          {
+            "station_name": "Парк культуры",
+            "line_name": "Кольцевая",
+            "station_id": "5.104",
+            "line_id": "5",
+            "lat": 55.735221,
+            "lng": 37.593095
+          }
+        ],
+        "id": "6726748"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-28T17:27:39+0300",
+      "created_at": "2025-07-28T17:27:39+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123335156",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123335156?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123335156",
+      "relations": [],
+      "employer": {
+        "id": "1740",
+        "name": "Яндекс",
+        "url": "https://api.hh.ru/employers/1740",
+        "alternate_url": "https://hh.ru/employer/1740",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/837491.png",
+          "90": "https://img.hhcdn.ru/employer-logo/3790847.png",
+          "240": "https://img.hhcdn.ru/employer-logo/3790848.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1740",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Работали 3–5 лет в стратегическом консалтинге, инвестиционных фондах, проектном офисе технологических компаний, FMCG, ритейле. Владеете английским языком на уровне...",
+        "responsibility": "Поиск новых точек роста бизнеса Я.Рекламы. Вам предстоит искать и лидировать кейсы технологических партнерств и M&A (вкл. интеграцию). "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "75",
+          "name": "Менеджер/консультант по стратегии"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123334783",
+      "premium": false,
+      "name": "Менеджер проектов в Рекламу",
+      "department": {
+        "id": "yandex-1740-comdep",
+        "name": "Коммерческий департамент "
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "Садовническая улица",
+        "building": "82с2",
+        "lat": 55.73552,
+        "lng": 37.642474,
+        "description": null,
+        "raw": "Москва, Садовническая улица, 82с2",
+        "metro": {
+          "station_name": "Павелецкая",
+          "line_name": "Замоскворецкая",
+          "station_id": "2.101",
+          "line_id": "2",
+          "lat": 55.729741,
+          "lng": 37.638693
+        },
+        "metro_stations": [
+          {
+            "station_name": "Павелецкая",
+            "line_name": "Замоскворецкая",
+            "station_id": "2.101",
+            "line_id": "2",
+            "lat": 55.729741,
+            "lng": 37.638693
+          },
+          {
+            "station_name": "Павелецкая",
+            "line_name": "Кольцевая",
+            "station_id": "5.102",
+            "line_id": "5",
+            "lat": 55.731414,
+            "lng": 37.636294
+          }
+        ],
+        "id": "840360"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-28T17:23:22+0300",
+      "created_at": "2025-07-28T17:23:22+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123334783",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123334783?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123334783",
+      "relations": [],
+      "employer": {
+        "id": "1740",
+        "name": "Яндекс",
+        "url": "https://api.hh.ru/employers/1740",
+        "alternate_url": "https://hh.ru/employer/1740",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/837491.png",
+          "90": "https://img.hhcdn.ru/employer-logo/3790847.png",
+          "240": "https://img.hhcdn.ru/employer-logo/3790848.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1740",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Работали менеджером проектов в сфере клиентского сервиса или продаж больше двух лет. Вели несколько проектов одновременно, умеете расставлять приоритеты. ",
+        "responsibility": "Управлять проектами. Вам предстоит быстро запускать проекты, вести несколько проектов параллельно, отвечать за сроки их реализации и ключевые показатели. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        },
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "68",
+          "name": "Менеджер по маркетингу, интернет-маркетолог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123355327",
+      "premium": false,
+      "name": "Разработчик интерфейсов в Эйчартех",
+      "department": {
+        "id": "yandex-1740-yandex",
+        "name": "Яндекс"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-29T10:54:15+0300",
+      "created_at": "2025-07-29T10:54:15+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123355327",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123355327?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123355327",
+      "relations": [],
+      "employer": {
+        "id": "1740",
+        "name": "Яндекс",
+        "url": "https://api.hh.ru/employers/1740",
+        "alternate_url": "https://hh.ru/employer/1740",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/837491.png",
+          "90": "https://img.hhcdn.ru/employer-logo/3790847.png",
+          "240": "https://img.hhcdn.ru/employer-logo/3790848.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1740",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Ключевые технологии и подходы, которые нужно знать (или быть готовым узнать): JavaScript, TypeScript, React, Redux. HTML, CSS, CSS Modules. ",
+        "responsibility": "Яндекс Контест — это платформа для автоматической проверки заданий и проведения олимпиад. Отличительная особенность платформы — на ней можно проверять задачи по..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "96",
+          "name": "Программист, разработчик"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123117851",
+      "premium": false,
+      "name": "Менеджер по снабжению",
+      "department": {
+        "id": "yandex-1740-yandex",
+        "name": "Яндекс"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-22T16:58:15+0300",
+      "created_at": "2025-07-22T16:58:15+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123117851",
+      "show_logo_in_search": null,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123117851?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123117851",
+      "relations": [],
+      "employer": {
+        "id": "1740",
+        "name": "Яндекс",
+        "url": "https://api.hh.ru/employers/1740",
+        "alternate_url": "https://hh.ru/employer/1740",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/837491.png",
+          "90": "https://img.hhcdn.ru/employer-logo/3790847.png",
+          "240": "https://img.hhcdn.ru/employer-logo/3790848.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1740",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Работали в снабжении не менее 2х лет. Владеете Excel. Умеете планировать оптимальные запасы ТМЦ.",
+        "responsibility": "Участвовали в запуске нового объекта. Работали с ИТ закупками по направлению скс."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "66",
+          "name": "Менеджер по закупкам"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123337074",
+      "premium": false,
+      "name": "Marketing Project Manager (International market)",
+      "department": {
+        "id": "yandex-1740-taxi",
+        "name": "Яндекс Такси"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-28T18:25:11+0300",
+      "created_at": "2025-07-28T18:25:11+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123337074",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123337074?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123337074",
+      "relations": [],
+      "employer": {
+        "id": "1740",
+        "name": "Яндекс",
+        "url": "https://api.hh.ru/employers/1740",
+        "alternate_url": "https://hh.ru/employer/1740",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/837491.png",
+          "90": "https://img.hhcdn.ru/employer-logo/3790847.png",
+          "240": "https://img.hhcdn.ru/employer-logo/3790848.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1740",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Проактивны, самостоятельно поднимаете острые вопросы и предлагаете решения. Структурны и дружите с цифрами – работаете системно, используете фреймворки для организации процессов...",
+        "responsibility": "Разработку комплексных маркетинговых активностей для решения бизнес-задач в разных странах. Управление маркетинговыми каналами взаимодействия с водителями (как заказчик или..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "68",
+          "name": "Менеджер по маркетингу, интернет-маркетолог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123297873",
+      "premium": false,
+      "name": "Финансовый менеджер",
+      "department": {
+        "id": "yandex-1740-taxi",
+        "name": "Яндекс Такси"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-28T10:02:19+0300",
+      "created_at": "2025-07-28T10:02:19+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123297873",
+      "show_logo_in_search": null,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123297873?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123297873",
+      "relations": [],
+      "employer": {
+        "id": "1740",
+        "name": "Яндекс",
+        "url": "https://api.hh.ru/employers/1740",
+        "alternate_url": "https://hh.ru/employer/1740",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/837491.png",
+          "90": "https://img.hhcdn.ru/employer-logo/3790847.png",
+          "240": "https://img.hhcdn.ru/employer-logo/3790848.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1740",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Работали в сфере FP&A, корпоративных финансов или инвестиционного анализа. Понимаете FCF на продвинутом уровне. Обладаете навыками моделирования в Excel...",
+        "responsibility": "Разработка и поддержка моделей. Вы будете разрабатывать и поддерживать финансовые модели прогнозирования денежных потоков с фокусом на статьи оборотного капитала. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "137",
+          "name": "Финансовый менеджер"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123329686",
+      "premium": false,
+      "name": "Специалист контроля качества",
+      "department": {
+        "id": "yandex-1740-ois360",
+        "name": "Облачные, инфраструктурные сервисы и Яндекс 360 "
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "160",
+        "name": "Алматы",
+        "url": "https://api.hh.ru/areas/160"
+      },
+      "salary": {
+        "from": 350000,
+        "to": 490000,
+        "currency": "KZT",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 350000,
+        "to": 490000,
+        "currency": "KZT",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "MONTHLY",
+          "name": "Раз в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-28T16:06:56+0300",
+      "created_at": "2025-07-28T16:06:56+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123329686",
+      "show_logo_in_search": null,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123329686?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123329686",
+      "relations": [],
+      "employer": {
+        "id": "1740",
+        "name": "Яндекс",
+        "url": "https://api.hh.ru/employers/1740",
+        "alternate_url": "https://hh.ru/employer/1740",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/837491.png",
+          "90": "https://img.hhcdn.ru/employer-logo/3790847.png",
+          "240": "https://img.hhcdn.ru/employer-logo/3790848.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1740",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Имеете опыт работы на смежных должностях в сферах продуктового ритейла или складских операций от 6 месяцев. - Владеете грамотной устной и...",
+        "responsibility": "Проверять корректность маркировок на складских товарах. - Обрабатывать поступающие рекламации. - Составлять документацию по результатам проверок. - Формировать и вести служебную отчетность. - "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "REMOTE",
+          "name": "Удалённо"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "44",
+          "name": "Инженер по качеству"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123386035",
+      "premium": false,
+      "name": "Старший финансовый менеджер",
+      "department": {
+        "id": "yandex-1740-ecomraid",
+        "name": "Городские сервисы"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-29T15:25:54+0300",
+      "created_at": "2025-07-29T15:25:54+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123386035",
+      "show_logo_in_search": null,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123386035?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123386035",
+      "relations": [],
+      "employer": {
+        "id": "1740",
+        "name": "Яндекс",
+        "url": "https://api.hh.ru/employers/1740",
+        "alternate_url": "https://hh.ru/employer/1740",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/837491.png",
+          "90": "https://img.hhcdn.ru/employer-logo/3790847.png",
+          "240": "https://img.hhcdn.ru/employer-logo/3790848.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1740",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Обладаете большим опытом построения и автоматизации сложных финансовых моделей. Знаете управленческий учёт, принципы аллокации затрат, стандарты МСФО. Работали с большими...",
+        "responsibility": "Разработка, автоматизация и поддержка комплексных финансовых моделей для международных и локальных проектов. Вам предстоит активно взаимодействовать с бизнес-подразделениями: собирать..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        },
+        {
+          "id": "HOURS_9",
+          "name": "9 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "137",
+          "name": "Финансовый менеджер"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "moreThan6",
+        "name": "Более 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123214983",
+      "premium": false,
+      "name": "Инженер по тестированию в команду сортировочных центров Маркета",
+      "department": {
+        "id": "yandex-1740-market",
+        "name": "Яндекс.Маркет"
+      },
+      "has_test": false,
+      "response_letter_required": true,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-24T17:48:49+0300",
+      "created_at": "2025-07-24T17:48:49+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123214983",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123214983?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123214983",
+      "relations": [],
+      "employer": {
+        "id": "1740",
+        "name": "Яндекс",
+        "url": "https://api.hh.ru/employers/1740",
+        "alternate_url": "https://hh.ru/employer/1740",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/837491.png",
+          "90": "https://img.hhcdn.ru/employer-logo/3790847.png",
+          "240": "https://img.hhcdn.ru/employer-logo/3790848.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1740",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Занимались функциональным тестированием больше двух лет. Работали со снифферами Charles и Fiddler. Знакомы с основными принципами работы клиент-серверных приложений...",
+        "responsibility": "Тестирование приложений. Вы будете проводить функциональное тестирование, следить за качеством продукта и находить дефекты, а также документировать их. Улучшение процессов. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "124",
+          "name": "Тестировщик"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123274590",
+      "premium": false,
+      "name": "Менеджер проектов обеспечения в офис Санкт-Петербурга",
+      "department": {
+        "id": "yandex-1740-ois360",
+        "name": "Облачные, инфраструктурные сервисы и Яндекс 360 "
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2",
+        "name": "Санкт-Петербург",
+        "url": "https://api.hh.ru/areas/2"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Санкт-Петербург",
+        "street": "Пискарёвский проспект",
+        "building": "2к2",
+        "lat": 59.958949,
+        "lng": 30.405969,
+        "description": null,
+        "raw": "Санкт-Петербург, Пискарёвский проспект, 2к2",
+        "metro": {
+          "station_name": "Новочеркасская",
+          "line_name": "Лахтинско-Правобережная",
+          "station_id": "17.241",
+          "line_id": "17",
+          "lat": 59.929092,
+          "lng": 30.411915
+        },
+        "metro_stations": [
+          {
+            "station_name": "Новочеркасская",
+            "line_name": "Лахтинско-Правобережная",
+            "station_id": "17.241",
+            "line_id": "17",
+            "lat": 59.929092,
+            "lng": 30.411915
+          },
+          {
+            "station_name": "Площадь Ленина",
+            "line_name": "Кировско-Выборгская",
+            "station_id": "14.197",
+            "line_id": "14",
+            "lat": 59.955611,
+            "lng": 30.35605
+          },
+          {
+            "station_name": "Чернышевская",
+            "line_name": "Кировско-Выборгская",
+            "station_id": "14.198",
+            "line_id": "14",
+            "lat": 59.94453,
+            "lng": 30.359919
+          }
+        ],
+        "id": "13245905"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-26T17:32:01+0300",
+      "created_at": "2025-07-26T17:32:01+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123274590",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123274590?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123274590",
+      "relations": [],
+      "employer": {
+        "id": "1740",
+        "name": "Яндекс",
+        "url": "https://api.hh.ru/employers/1740",
+        "alternate_url": "https://hh.ru/employer/1740",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/837491.png",
+          "90": "https://img.hhcdn.ru/employer-logo/3790847.png",
+          "240": "https://img.hhcdn.ru/employer-logo/3790848.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1740",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Получили высшее образование. Имеете опыт запуска и организации клининговых услуг, опыт эффективного управления подрядчиком. Планировали бюджет, занимались учётом и аналитикой...",
+        "responsibility": "Обеспечение чистоты и порядка в офисах, управление подрядчиками клининговых услуг. Вам нужно будет ежедневно оценивать работу клининговой компании, анализировать качество..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "40",
+          "name": "Другое"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123297844",
+      "premium": false,
+      "name": "Менеджер проектов качества поддержки",
+      "department": {
+        "id": "yandex-1740-taxi",
+        "name": "Яндекс Такси"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-28T10:01:52+0300",
+      "created_at": "2025-07-28T10:01:52+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123297844",
+      "show_logo_in_search": null,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123297844?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123297844",
+      "relations": [],
+      "employer": {
+        "id": "1740",
+        "name": "Яндекс",
+        "url": "https://api.hh.ru/employers/1740",
+        "alternate_url": "https://hh.ru/employer/1740",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/837491.png",
+          "90": "https://img.hhcdn.ru/employer-logo/3790847.png",
+          "240": "https://img.hhcdn.ru/employer-logo/3790848.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1740",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Успешно работали с метриками поддержки или бизнесовыми метриками. Умеете работать с цифрами и отчётностью, принимать решения на их основе. ",
+        "responsibility": "Улучшение качества поддержки. Вам предстоит снижать нагрузку на поддержку и увеличивать CSAT. Проектная деятельность. Вы будете заниматься проектами со стейкхолдерами..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "132",
+          "name": "Учитель, преподаватель, педагог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123338832",
+      "premium": false,
+      "name": "Brand Activation Manager (International market)",
+      "department": {
+        "id": "yandex-1740-taxi",
+        "name": "Яндекс Такси"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-28T21:28:30+0300",
+      "created_at": "2025-07-28T21:28:30+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123338832",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123338832?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123338832",
+      "relations": [],
+      "employer": {
+        "id": "1740",
+        "name": "Яндекс",
+        "url": "https://api.hh.ru/employers/1740",
+        "alternate_url": "https://hh.ru/employer/1740",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/837491.png",
+          "90": "https://img.hhcdn.ru/employer-logo/3790847.png",
+          "240": "https://img.hhcdn.ru/employer-logo/3790848.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1740",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Создание слаженной системы с чёткой логикой, дедлайнами, метриками и измеримыми результатами. Имеете опыт выстраивания операционных систем с нуля. ",
+        "responsibility": "Разработку и внедрение операционных процессов для активаций бренда. Запуск и реализацию проектов от идеи до исполнения: партнёрства, ивенты, контентные спецпроекты..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "68",
+          "name": "Менеджер по маркетингу, интернет-маркетолог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123386840",
+      "premium": false,
+      "name": "Специалист по физической безопасности в Маркет",
+      "department": {
+        "id": "yandex-1740-ecomraid",
+        "name": "Городские сервисы"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "66",
+        "name": "Нижний Новгород",
+        "url": "https://api.hh.ru/areas/66"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-29T15:39:46+0300",
+      "created_at": "2025-07-29T15:39:46+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123386840",
+      "show_logo_in_search": null,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123386840?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123386840",
+      "relations": [],
+      "employer": {
+        "id": "1740",
+        "name": "Яндекс",
+        "url": "https://api.hh.ru/employers/1740",
+        "alternate_url": "https://hh.ru/employer/1740",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/837491.png",
+          "90": "https://img.hhcdn.ru/employer-logo/3790847.png",
+          "240": "https://img.hhcdn.ru/employer-logo/3790848.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1740",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Имеете опыт работы с видеооборудованием. Технически грамотны, уверенно пользуетесь MS Office. Работали с видеоархивами и инцидентами с недостачей товара. ",
+        "responsibility": "Просматривать онлайн-трансляции с видеокамер для выявления попыток хищения или порчи товаров на складе. Оперативно предоставлять видеоархивы. Контролировать работу сотрудников..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "120",
+          "name": "Специалист службы безопасности"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123260335",
+      "premium": false,
+      "name": "Ретушер",
+      "department": {
+        "id": "yandex-1740-eda",
+        "name": "Яндекс Еда"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "84",
+        "name": "Ставрополь",
+        "url": "https://api.hh.ru/areas/84"
+      },
+      "salary": {
+        "from": 32600,
+        "to": 40700,
+        "currency": "RUR",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 32600,
+        "to": 40700,
+        "currency": "RUR",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "TWICE_PER_MONTH",
+          "name": "Два раза в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-25T14:57:43+0300",
+      "created_at": "2025-07-25T14:57:43+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123260335",
+      "show_logo_in_search": null,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123260335?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123260335",
+      "relations": [],
+      "employer": {
+        "id": "1740",
+        "name": "Яндекс",
+        "url": "https://api.hh.ru/employers/1740",
+        "alternate_url": "https://hh.ru/employer/1740",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/837491.png",
+          "90": "https://img.hhcdn.ru/employer-logo/3790847.png",
+          "240": "https://img.hhcdn.ru/employer-logo/3790848.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1740",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Уметь делать цвето- и светокоррекции, обтравку, работать с нейросетями, потоковая ретушь,режим. Осуществлять потоковую ретушь при наличии большого количества материалов. ",
+        "responsibility": "Настраивать светокоррецкию, цветокоррекцию и обтравку изображений."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "REMOTE",
+          "name": "Удалённо"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_12",
+          "name": "12 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "TWO_ON_TWO_OFF",
+          "name": "2/2"
+        }
+      ],
+      "night_shifts": true,
+      "professional_roles": [
+        {
+          "id": "139",
+          "name": "Фотограф, ретушер"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123314412",
+      "premium": false,
+      "name": "Руководитель инженерной группы в Яндекс Маркет",
+      "department": {
+        "id": "yandex-1740-market",
+        "name": "Яндекс.Маркет"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-28T12:56:43+0300",
+      "created_at": "2025-07-28T12:56:43+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123314412",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123314412?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123314412",
+      "relations": [],
+      "employer": {
+        "id": "1740",
+        "name": "Яндекс",
+        "url": "https://api.hh.ru/employers/1740",
+        "alternate_url": "https://hh.ru/employer/1740",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/837491.png",
+          "90": "https://img.hhcdn.ru/employer-logo/3790847.png",
+          "240": "https://img.hhcdn.ru/employer-logo/3790848.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1740",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Обладаете экспертным опытом в сфере ОВиК и пожарной безопасности. Знакомы со стандартами ISO и имеете опыт их реализации.",
+        "responsibility": "Контроль соответствия и стандартизация. Вы будете обеспечивать соответствие объектов стандартам — международным (FM Global, ISO 50001) и российским (СП, ГОСТ, ПБ..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "170",
+          "name": "Руководитель отдела маркетинга и рекламы"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "122062680",
+      "premium": false,
+      "name": "Менеджер по счастью клиентов",
+      "department": {
+        "id": "yandex-1740-poirekl",
+        "name": "Поиск и Рекламные технологии"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "3",
+        "name": "Екатеринбург",
+        "url": "https://api.hh.ru/areas/3"
+      },
+      "salary": {
+        "from": 60000,
+        "to": 100000,
+        "currency": "RUR",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 60000,
+        "to": 100000,
+        "currency": "RUR",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "TWICE_PER_MONTH",
+          "name": "Два раза в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-29T18:26:28+0300",
+      "created_at": "2025-07-29T18:26:28+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=122062680",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/122062680?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/122062680",
+      "relations": [],
+      "employer": {
+        "id": "1740",
+        "name": "Яндекс",
+        "url": "https://api.hh.ru/employers/1740",
+        "alternate_url": "https://hh.ru/employer/1740",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/837491.png",
+          "90": "https://img.hhcdn.ru/employer-logo/3790847.png",
+          "240": "https://img.hhcdn.ru/employer-logo/3790848.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1740",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Стремитесь к профессиональному росту в области продаж и работы с клиентами. Получаете удовольствие от общения с клиентами по телефону. ",
+        "responsibility": "Общаться с заинтересованными клиентами (без необходимости проводить поиск и холодные продажи). Предлагать варианты жилых комплексов, которые соответствуют требованиям клиента. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "REMOTE",
+          "name": "Удалённо"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "70",
+          "name": "Менеджер по продажам, менеджер по работе с клиентами"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123154280",
+      "premium": false,
+      "name": "Frontend-разработчик в Финтех",
+      "department": {
+        "id": "yandex-1740-finplfan",
+        "name": "Финтех, Плюс Фантех "
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-23T15:05:53+0300",
+      "created_at": "2025-07-23T15:05:53+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123154280",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123154280?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123154280",
+      "relations": [],
+      "employer": {
+        "id": "1740",
+        "name": "Яндекс",
+        "url": "https://api.hh.ru/employers/1740",
+        "alternate_url": "https://hh.ru/employer/1740",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/837491.png",
+          "90": "https://img.hhcdn.ru/employer-logo/3790847.png",
+          "240": "https://img.hhcdn.ru/employer-logo/3790848.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1740",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Работать над качеством и скоростью. Развивать технологии и инфраструктуру, чтобы писать код ещё быстрее и качественнее. Хорошо знаете HTML и...",
+        "responsibility": "Мы делаем интерфейсы, с помощью которых можно оплачивать покупки в интернете. Платить через Yаndex Pay можно и на внутренних сервисах..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "REMOTE",
+          "name": "Удалённо"
+        },
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "96",
+          "name": "Программист, разработчик"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123267321",
+      "premium": false,
+      "name": "Менеджер образовательных продуктов | Product Manager",
+      "department": {
+        "id": "yandex-1740-poirekl",
+        "name": "Поиск и Рекламные технологии"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "улица Льва Толстого",
+        "building": "16",
+        "lat": 55.733771,
+        "lng": 37.587937,
+        "description": null,
+        "raw": "Москва, улица Льва Толстого, 16",
+        "metro": {
+          "station_name": "Парк культуры",
+          "line_name": "Сокольническая",
+          "station_id": "1.103",
+          "line_id": "1",
+          "lat": 55.736163,
+          "lng": 37.595027
+        },
+        "metro_stations": [
+          {
+            "station_name": "Парк культуры",
+            "line_name": "Сокольническая",
+            "station_id": "1.103",
+            "line_id": "1",
+            "lat": 55.736163,
+            "lng": 37.595027
+          }
+        ],
+        "id": "158683"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-25T17:29:34+0300",
+      "created_at": "2025-07-25T17:29:34+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123267321",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123267321?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123267321",
+      "relations": [],
+      "employer": {
+        "id": "1740",
+        "name": "Яндекс",
+        "url": "https://api.hh.ru/employers/1740",
+        "alternate_url": "https://hh.ru/employer/1740",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/837491.png",
+          "90": "https://img.hhcdn.ru/employer-logo/3790847.png",
+          "240": "https://img.hhcdn.ru/employer-logo/3790848.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1740",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Работали в роли продакт-менеджера от 2 лет. Знаете методологии управления продуктом (Agile, Scrum и др.). Умеете анализировать данные и...",
+        "responsibility": "Разработка стратегий развития продуктов: ​​​​​​​​​​​​​​Вам предстоит заниматься разработкой стратегий развития образовательных продуктов, создавать детальные roadmap, определяющие направления и этапы развития..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "73",
+          "name": "Менеджер продукта"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123365585",
+      "premium": false,
+      "name": "Продюсер в международное направление Такси",
+      "department": {
+        "id": "yandex-1740-ois360",
+        "name": "Облачные, инфраструктурные сервисы и Яндекс 360 "
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "160",
+        "name": "Алматы",
+        "url": "https://api.hh.ru/areas/160"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-29T12:57:42+0300",
+      "created_at": "2025-07-29T12:57:42+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123365585",
+      "show_logo_in_search": null,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123365585?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123365585",
+      "relations": [],
+      "employer": {
+        "id": "1740",
+        "name": "Яндекс",
+        "url": "https://api.hh.ru/employers/1740",
+        "alternate_url": "https://hh.ru/employer/1740",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/837491.png",
+          "90": "https://img.hhcdn.ru/employer-logo/3790847.png",
+          "240": "https://img.hhcdn.ru/employer-logo/3790848.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1740",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Обладаете коммуникативными навыками. Вам предстоит вести большое количество переговоров с заказчиками и исполнителями разного уровня. Самостоятельны, активны, решительны, спокойны, тверды...",
+        "responsibility": "Планировать и руководить производством креативных материалов для Яндекс Такси в Узбекистане, Казахстане и Кыргызстане во всех каналах коммуникации. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": true,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "REMOTE",
+          "name": "Удалённо"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "98",
+          "name": "Продюсер"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123120875",
+      "premium": false,
+      "name": "Менеджер по закупкам и управлению товарными запасами в Маркет",
+      "department": {
+        "id": "yandex-1740-yandex",
+        "name": "Яндекс"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-22T18:21:12+0300",
+      "created_at": "2025-07-22T18:21:12+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123120875",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123120875?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123120875",
+      "relations": [],
+      "employer": {
+        "id": "1740",
+        "name": "Яндекс",
+        "url": "https://api.hh.ru/employers/1740",
+        "alternate_url": "https://hh.ru/employer/1740",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/837491.png",
+          "90": "https://img.hhcdn.ru/employer-logo/3790847.png",
+          "240": "https://img.hhcdn.ru/employer-logo/3790848.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=1740",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Знаете методы прогнозирования спроса, принципы управления запасами, методы категоризации, основные показатели эффективности. Понимаете принципы работы маркетплейсов, логистические и коммерческие процессы. ",
+        "responsibility": "Прогнозирование спроса и планирование закупок. Вам нужно будет анализировать спрос, учитывая внешние факторы, тренды и сезонность, а также составлять планы..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "REMOTE",
+          "name": "Удалённо"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "66",
+          "name": "Менеджер по закупкам"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    }
+  ],
+  "found": 996,
+  "pages": 40,
+  "page": 0,
+  "per_page": 25,
+  "clusters": null,
+  "arguments": null,
+  "fixes": null,
+  "suggests": null,
+  "alternate_url": "https://hh.ru/search/vacancy?employer_id=1740&enable_snippets=true&items_on_page=25"
+}

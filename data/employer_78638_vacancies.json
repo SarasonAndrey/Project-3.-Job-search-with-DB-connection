@@ -1,0 +1,3425 @@
+{
+  "items": [
+    {
+      "id": "123311546",
+      "premium": false,
+      "name": "Юрист на регуляторные процессы",
+      "department": {
+        "id": "78638-78638-lawyer",
+        "name": "Т-Банк. Бизнес и процессы. Юридическое сопровождение"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "улица Грузинский Вал",
+        "building": "7",
+        "lat": 55.774174568296736,
+        "lng": 37.57752064550758,
+        "description": null,
+        "raw": "Москва, улица Грузинский Вал, 7",
+        "metro": {
+          "station_name": "Белорусская",
+          "line_name": "Кольцевая",
+          "station_id": "5.20",
+          "line_id": "5",
+          "lat": 55.775179,
+          "lng": 37.582303
+        },
+        "metro_stations": [
+          {
+            "station_name": "Белорусская",
+            "line_name": "Кольцевая",
+            "station_id": "5.20",
+            "line_id": "5",
+            "lat": 55.775179,
+            "lng": 37.582303
+          },
+          {
+            "station_name": "Белорусская",
+            "line_name": "МЦД-4",
+            "station_id": "136.894",
+            "line_id": "136",
+            "lat": 55.776389,
+            "lng": 37.580278
+          }
+        ],
+        "id": "14765141"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-28T12:18:39+0300",
+      "created_at": "2025-07-28T12:18:39+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123311546",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": {
+        "id": "32978",
+        "url": "https://hh.ru/interview/32978?employerId=78638"
+      },
+      "url": "https://api.hh.ru/vacancies/123311546?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123311546",
+      "relations": [],
+      "employer": {
+        "id": "78638",
+        "name": "Т-Банк",
+        "url": "https://api.hh.ru/employers/78638",
+        "alternate_url": "https://hh.ru/employer/78638",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1405176.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7240372.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7240373.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=78638",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Правовая экспертиза в вверенной специализации. Навыки анализа информации из разных источников. Развитое логическое мышление. Умение анализировать и структурировать информацию. ",
+        "responsibility": "Правовое сопровождение процессов интеграции банка с государственными системами: ЕСИА, СМЭВ, ЭДО, ГИС ГМП, ЕПГУ и др. (анализ правовых оснований, участие..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "146",
+          "name": "Юрист"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123318137",
+      "premium": false,
+      "name": "Комьюнити менеджер сообществ команд обучения",
+      "department": {
+        "id": "78638-78638-thr",
+        "name": "Т-Банк. Бизнес и процессы. HR"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "улица Грузинский Вал",
+        "building": "7",
+        "lat": 55.774174568296736,
+        "lng": 37.57752064550758,
+        "description": null,
+        "raw": "Москва, улица Грузинский Вал, 7",
+        "metro": {
+          "station_name": "Белорусская",
+          "line_name": "Кольцевая",
+          "station_id": "5.20",
+          "line_id": "5",
+          "lat": 55.775179,
+          "lng": 37.582303
+        },
+        "metro_stations": [
+          {
+            "station_name": "Белорусская",
+            "line_name": "Кольцевая",
+            "station_id": "5.20",
+            "line_id": "5",
+            "lat": 55.775179,
+            "lng": 37.582303
+          },
+          {
+            "station_name": "Белорусская",
+            "line_name": "МЦД-4",
+            "station_id": "136.894",
+            "line_id": "136",
+            "lat": 55.776389,
+            "lng": 37.580278
+          }
+        ],
+        "id": "14765141"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-28T13:43:15+0300",
+      "created_at": "2025-07-28T13:43:15+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123318137",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": {
+        "id": "32978",
+        "url": "https://hh.ru/interview/32978?employerId=78638"
+      },
+      "url": "https://api.hh.ru/vacancies/123318137?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123318137",
+      "relations": [],
+      "employer": {
+        "id": "78638",
+        "name": "Т-Банк",
+        "url": "https://api.hh.ru/employers/78638",
+        "alternate_url": "https://hh.ru/employer/78638",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1405176.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7240372.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7240373.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=78638",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт в комьюнити-менеджменте, обучении и поддержке пользователей. Отличные коммуникационные навыки и умение работать в команде. Навыки проектного менеджмента, анализа...",
+        "responsibility": "Организовывать встречи, чтобы команды обсуждали лучшие практики и подходы к обучению. Сотрудничать с экспертами для разработки актуальных тем по интересам..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "40",
+          "name": "Другое"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123329713",
+      "premium": false,
+      "name": "Ассистент по документообороту",
+      "department": {
+        "id": "78638-78638-admin",
+        "name": "Т-Банк. Бизнес и процессы. Административное управление"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1979",
+        "name": "Комсомольск-на-Амуре",
+        "url": "https://api.hh.ru/areas/1979"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Комсомольск-на-Амуре",
+        "street": "Севастопольская улица",
+        "building": "4",
+        "lat": 50.538864,
+        "lng": 137.022069,
+        "description": null,
+        "raw": "Комсомольск-на-Амуре, Севастопольская улица, 4",
+        "metro": null,
+        "metro_stations": [],
+        "id": "18740798"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-28T16:07:23+0300",
+      "created_at": "2025-07-28T16:07:23+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123329713",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": {
+        "id": "33556",
+        "url": "https://hh.ru/interview/33556?employerId=78638"
+      },
+      "url": "https://api.hh.ru/vacancies/123329713?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123329713",
+      "relations": [],
+      "employer": {
+        "id": "78638",
+        "name": "Т-Банк",
+        "url": "https://api.hh.ru/employers/78638",
+        "alternate_url": "https://hh.ru/employer/78638",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1405176.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7240372.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7240373.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=78638",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Являетесь уверенным пользователем ПК, умеете пользоваться офисной техникой. У вас есть ноутбук для выполнения функционала.",
+        "responsibility": "Организовывать и контролировать поступление, распределение, хранение и движение документов и материальных ценностей. Сопровождать кадровый документооборот: прием и увольнение работников, возврат..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [],
+      "working_hours": [
+        {
+          "id": "OTHER",
+          "name": "Другое"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "OTHER",
+          "name": "Другое"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "33",
+          "name": "Делопроизводитель, архивариус"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "part",
+        "name": "Частичная занятость"
+      },
+      "employment_form": {
+        "id": "PART",
+        "name": "Частичная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "122180520",
+      "premium": false,
+      "name": "QA-инженер (frontend)",
+      "department": {
+        "id": "78638-78638-qa",
+        "name": "Т-Банк. ИТ. QA"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "68",
+        "name": "Омск",
+        "url": "https://api.hh.ru/areas/68"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Омск",
+        "street": "улица Гагарина",
+        "building": "14",
+        "lat": 54.987813,
+        "lng": 73.376836,
+        "description": null,
+        "raw": "Омск, улица Гагарина, 14",
+        "metro": null,
+        "metro_stations": [],
+        "id": "13874252"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-29T07:33:53+0300",
+      "created_at": "2025-07-29T07:33:53+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=122180520",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": {
+        "id": "32978",
+        "url": "https://hh.ru/interview/32978?employerId=78638"
+      },
+      "url": "https://api.hh.ru/vacancies/122180520?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/122180520",
+      "relations": [],
+      "employer": {
+        "id": "78638",
+        "name": "Т-Банк",
+        "url": "https://api.hh.ru/employers/78638",
+        "alternate_url": "https://hh.ru/employer/78638",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1405176.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7240372.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7240373.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=78638",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "У вас есть опыт ручного тестирования фронтенда от 2 лет. У вас есть опыт автоматизации фронтенда на JavaScript/TypeScript от...",
+        "responsibility": "Проводить функциональное и автоматизированное тестирование. В том числе анализировать и тестировать требования. Работать в продуктовой команде в рамках Agile-процессов. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "REMOTE",
+          "name": "Удалённо"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "96",
+          "name": "Программист, разработчик"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123362632",
+      "premium": false,
+      "name": "Security Engineer",
+      "department": {
+        "id": "78638-78638-safety",
+        "name": "Т-Банк. ИТ. Информационная безопасность"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "улица Грузинский Вал",
+        "building": "7",
+        "lat": 55.774174568296736,
+        "lng": 37.57752064550758,
+        "description": null,
+        "raw": "Москва, улица Грузинский Вал, 7",
+        "metro": {
+          "station_name": "Белорусская",
+          "line_name": "Кольцевая",
+          "station_id": "5.20",
+          "line_id": "5",
+          "lat": 55.775179,
+          "lng": 37.582303
+        },
+        "metro_stations": [
+          {
+            "station_name": "Белорусская",
+            "line_name": "Кольцевая",
+            "station_id": "5.20",
+            "line_id": "5",
+            "lat": 55.775179,
+            "lng": 37.582303
+          },
+          {
+            "station_name": "Белорусская",
+            "line_name": "МЦД-4",
+            "station_id": "136.894",
+            "line_id": "136",
+            "lat": 55.776389,
+            "lng": 37.580278
+          }
+        ],
+        "id": "14765141"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-29T12:25:56+0300",
+      "created_at": "2025-07-29T12:25:56+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123362632",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": true,
+      "insider_interview": {
+        "id": "32978",
+        "url": "https://hh.ru/interview/32978?employerId=78638"
+      },
+      "url": "https://api.hh.ru/vacancies/123362632?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123362632",
+      "relations": [],
+      "employer": {
+        "id": "78638",
+        "name": "Т-Банк",
+        "url": "https://api.hh.ru/employers/78638",
+        "alternate_url": "https://hh.ru/employer/78638",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1405176.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7240372.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7240373.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=78638",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "У вас есть опыт развертывания и администрирования решений по информационной безопасности: Firewall, системы IDS/IPS, RA VPN, 2FA, AV...",
+        "responsibility": "Прорабатывать архитектуру средств защиты, внедрять и поддерживать их, контролировать покрытие: AV, EDR, DLP, МЭ, Sandbox, 2FA, сканер уязвимостей. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "116",
+          "name": "Специалист по информационной безопасности"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123391467",
+      "premium": false,
+      "name": "Кладовщик",
+      "department": {
+        "id": "78638-78638-other",
+        "name": "Т-Банк. Другое"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2041",
+        "name": "Мытищи (Московская область)",
+        "url": "https://api.hh.ru/areas/2041"
+      },
+      "salary": {
+        "from": 80000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false
+      },
+      "salary_range": {
+        "from": 80000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "TWICE_PER_MONTH",
+          "name": "Два раза в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Мытищи",
+        "street": "Силикатная улица",
+        "building": "51АС6",
+        "lat": 55.946854,
+        "lng": 37.781236,
+        "description": null,
+        "raw": "Мытищи, Силикатная улица, 51АС6",
+        "metro": null,
+        "metro_stations": [],
+        "id": "16665219"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-29T16:58:23+0300",
+      "created_at": "2025-07-29T16:58:23+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123391467",
+      "show_logo_in_search": null,
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123391467?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123391467",
+      "relations": [],
+      "employer": {
+        "id": "78638",
+        "name": "Т-Банк",
+        "url": "https://api.hh.ru/employers/78638",
+        "alternate_url": "https://hh.ru/employer/78638",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1405176.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7240372.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7240373.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=78638",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Среднее или средне-специальное образование и опыт работы от 1 года. Знание складской логистики и складской документации. Знание 1С...",
+        "responsibility": "Прием продукции и других товарно-материальных ценностей на склад. Выдача (отпуск) продукции и других товарно-материальных ценностей со склада. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "shift",
+        "name": "Сменный график"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_11",
+          "name": "11 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "TWO_ON_TWO_OFF",
+          "name": "2/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "52",
+          "name": "Кладовщик"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123369119",
+      "premium": false,
+      "name": "Риск-менеджер",
+      "department": {
+        "id": "78638-78638-compl",
+        "name": "Т-Банк. Бизнес и процессы. Compliance "
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "улица Грузинский Вал",
+        "building": "7",
+        "lat": 55.774102,
+        "lng": 37.576834,
+        "description": null,
+        "raw": "Москва, улица Грузинский Вал, 7",
+        "metro": {
+          "station_name": "Белорусская",
+          "line_name": "Кольцевая",
+          "station_id": "5.20",
+          "line_id": "5",
+          "lat": 55.775179,
+          "lng": 37.582303
+        },
+        "metro_stations": [
+          {
+            "station_name": "Белорусская",
+            "line_name": "Кольцевая",
+            "station_id": "5.20",
+            "line_id": "5",
+            "lat": 55.775179,
+            "lng": 37.582303
+          },
+          {
+            "station_name": "Белорусская",
+            "line_name": "МЦД-1",
+            "station_id": "131.700",
+            "line_id": "131",
+            "lat": 55.775179,
+            "lng": 37.582303
+          },
+          {
+            "station_name": "Белорусская",
+            "line_name": "МЦД-4",
+            "station_id": "136.894",
+            "line_id": "136",
+            "lat": 55.776389,
+            "lng": 37.580278
+          }
+        ],
+        "id": "18887705"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-29T13:17:15+0300",
+      "created_at": "2025-07-29T13:17:15+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123369119",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": {
+        "id": "32978",
+        "url": "https://hh.ru/interview/32978?employerId=78638"
+      },
+      "url": "https://api.hh.ru/vacancies/123369119?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123369119",
+      "relations": [],
+      "employer": {
+        "id": "78638",
+        "name": "Т-Банк",
+        "url": "https://api.hh.ru/employers/78638",
+        "alternate_url": "https://hh.ru/employer/78638",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1405176.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7240372.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7240373.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=78638",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Высшее экономическое образование. Знание и практический опыт применения положений Банка России на высоком уровне (590-П, 611-П). ",
+        "responsibility": "Поиск и структурирование информации для оценки финансового положения юридических лиц и кредитных организаций во внешних и внутренних источниках. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "158",
+          "name": "Комплаенс-менеджер"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "122484679",
+      "premium": false,
+      "name": "Графический дизайнер-иллюстратор",
+      "department": {
+        "id": "78638-78638-design",
+        "name": "Т-Банк. ИТ. Дизайн"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "улица Грузинский Вал",
+        "building": "7",
+        "lat": 55.774174568296736,
+        "lng": 37.57752064550758,
+        "description": null,
+        "raw": "Москва, улица Грузинский Вал, 7",
+        "metro": {
+          "station_name": "Белорусская",
+          "line_name": "Кольцевая",
+          "station_id": "5.20",
+          "line_id": "5",
+          "lat": 55.775179,
+          "lng": 37.582303
+        },
+        "metro_stations": [
+          {
+            "station_name": "Белорусская",
+            "line_name": "Кольцевая",
+            "station_id": "5.20",
+            "line_id": "5",
+            "lat": 55.775179,
+            "lng": 37.582303
+          },
+          {
+            "station_name": "Белорусская",
+            "line_name": "МЦД-4",
+            "station_id": "136.894",
+            "line_id": "136",
+            "lat": 55.776389,
+            "lng": 37.580278
+          }
+        ],
+        "id": "14765141"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-24T14:32:57+0300",
+      "created_at": "2025-07-24T14:32:57+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=122484679",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": {
+        "id": "32978",
+        "url": "https://hh.ru/interview/32978?employerId=78638"
+      },
+      "url": "https://api.hh.ru/vacancies/122484679?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/122484679",
+      "relations": [],
+      "employer": {
+        "id": "78638",
+        "name": "Т-Банк",
+        "url": "https://api.hh.ru/employers/78638",
+        "alternate_url": "https://hh.ru/employer/78638",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1405176.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7240372.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7240373.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=78638",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "У тебя от 3 лет опыта в дизайн-студиях или рекламных агентствах и есть уверенное портфолио. Понимаешь, как работает иллюстративный...",
+        "responsibility": "Создавать уникальное визуальное представление бренда Т-Банка на разных платформах. Разрабатывать иллюстрации и иконки для мобильного приложения, сайта, мерча и..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "REMOTE",
+          "name": "Удалённо"
+        },
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "34",
+          "name": "Дизайнер, художник"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123335866",
+      "premium": false,
+      "name": "Руководитель отдела развития корпоративных клиентов",
+      "department": {
+        "id": "78638-78638-sales",
+        "name": "Т-Банк. Бизнес и процессы. Продажи"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "3",
+        "name": "Екатеринбург",
+        "url": "https://api.hh.ru/areas/3"
+      },
+      "salary": {
+        "from": 265000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 265000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": null
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Екатеринбург",
+        "street": "улица Хохрякова",
+        "building": "10",
+        "lat": 56.835563999955404,
+        "lng": 60.59066988095082,
+        "description": null,
+        "raw": "Екатеринбург, улица Хохрякова, 10",
+        "metro": {
+          "station_name": "Площадь 1905 года",
+          "line_name": "Север-Юг",
+          "station_id": "48.266",
+          "line_id": "48",
+          "lat": 56.837982,
+          "lng": 60.59734
+        },
+        "metro_stations": [
+          {
+            "station_name": "Площадь 1905 года",
+            "line_name": "Север-Юг",
+            "station_id": "48.266",
+            "line_id": "48",
+            "lat": 56.837982,
+            "lng": 60.59734
+          }
+        ],
+        "id": "4665899"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-28T17:44:18+0300",
+      "created_at": "2025-07-28T17:44:18+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123335866",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": {
+        "id": "33556",
+        "url": "https://hh.ru/interview/33556?employerId=78638"
+      },
+      "url": "https://api.hh.ru/vacancies/123335866?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123335866",
+      "relations": [],
+      "employer": {
+        "id": "78638",
+        "name": "Т-Банк",
+        "url": "https://api.hh.ru/employers/78638",
+        "alternate_url": "https://hh.ru/employer/78638",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1405176.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7240372.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7240373.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=78638",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "У вас есть опыт работы руководителем в банке от 2-х лет — знаете, как выстраивать процессы и вести команду к...",
+        "responsibility": "Обеспечивать выполнение показателей отдела (РКО, доходность, доп. продукты по действующему портфелю). Формировать и развивать команду: ставить задачи, контролировать выполнение, мотивировать..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "106",
+          "name": "Руководитель отдела продаж"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "122818861",
+      "premium": false,
+      "name": "Финансовый аналитик",
+      "department": {
+        "id": "78638-78638-money",
+        "name": "Т-Банк. Бизнес и процессы. Финансы"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "улица Грузинский Вал",
+        "building": "7",
+        "lat": 55.774174568296736,
+        "lng": 37.57752064550758,
+        "description": null,
+        "raw": "Москва, улица Грузинский Вал, 7",
+        "metro": {
+          "station_name": "Белорусская",
+          "line_name": "Кольцевая",
+          "station_id": "5.20",
+          "line_id": "5",
+          "lat": 55.775179,
+          "lng": 37.582303
+        },
+        "metro_stations": [
+          {
+            "station_name": "Белорусская",
+            "line_name": "Кольцевая",
+            "station_id": "5.20",
+            "line_id": "5",
+            "lat": 55.775179,
+            "lng": 37.582303
+          },
+          {
+            "station_name": "Белорусская",
+            "line_name": "МЦД-4",
+            "station_id": "136.894",
+            "line_id": "136",
+            "lat": 55.776389,
+            "lng": 37.580278
+          }
+        ],
+        "id": "14765141"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-15T14:20:38+0300",
+      "created_at": "2025-07-15T14:20:38+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=122818861",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": {
+        "id": "32978",
+        "url": "https://hh.ru/interview/32978?employerId=78638"
+      },
+      "url": "https://api.hh.ru/vacancies/122818861?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/122818861",
+      "relations": [],
+      "employer": {
+        "id": "78638",
+        "name": "Т-Банк",
+        "url": "https://api.hh.ru/employers/78638",
+        "alternate_url": "https://hh.ru/employer/78638",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1405176.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7240372.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7240373.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=78638",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Высшее экономическое или техническое образование. Аналитический склад ума. Развитые коммуникативные навыки. Способность транслировать финансовую информацию в смежные подразделения компании и...",
+        "responsibility": "Формирование регулярной управленческой отчетности по направлениям в зоне ответственности, разработка правил аллокации расходов, финансовое моделирование. Основные инструменты - SQL, Optimacros, Superset. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "134",
+          "name": "Финансовый аналитик, инвестиционный аналитик"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "122857062",
+      "premium": false,
+      "name": "QA инженер (frontend)",
+      "department": {
+        "id": "78638-78638-qa",
+        "name": "Т-Банк. ИТ. QA"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "79",
+        "name": "Саратов",
+        "url": "https://api.hh.ru/areas/79"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-16T11:33:51+0300",
+      "created_at": "2025-07-16T11:33:51+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=122857062",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": {
+        "id": "32978",
+        "url": "https://hh.ru/interview/32978?employerId=78638"
+      },
+      "url": "https://api.hh.ru/vacancies/122857062?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/122857062",
+      "relations": [],
+      "employer": {
+        "id": "78638",
+        "name": "Т-Банк",
+        "url": "https://api.hh.ru/employers/78638",
+        "alternate_url": "https://hh.ru/employer/78638",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1405176.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7240372.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7240373.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=78638",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "У вас есть опыт тестирования фронтенда от 2 лет. Есть опыт разработки автоматизированных сценариев на JavaScript/TypeScript, Java, Kotlin, Python...",
+        "responsibility": "Проводить функциональное и автоматизированное тестирование. В том числе анализировать и тестировать требования. Работать в продуктовой команде в рамках Agile-процессов. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "124",
+          "name": "Тестировщик"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "120923548",
+      "premium": false,
+      "name": "QA-инженер (Backend)",
+      "department": {
+        "id": "78638-78638-qa",
+        "name": "Т-Банк. ИТ. QA"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "77",
+        "name": "Рязань",
+        "url": "https://api.hh.ru/areas/77"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Рязань",
+        "street": "улица Кудрявцева",
+        "building": "56",
+        "lat": 54.62648,
+        "lng": 39.731173,
+        "description": null,
+        "raw": "Рязань, улица Кудрявцева, 56",
+        "metro": null,
+        "metro_stations": [],
+        "id": "1050046"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-22T18:17:34+0300",
+      "created_at": "2025-07-22T18:17:34+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120923548",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": {
+        "id": "32978",
+        "url": "https://hh.ru/interview/32978?employerId=78638"
+      },
+      "url": "https://api.hh.ru/vacancies/120923548?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/120923548",
+      "relations": [],
+      "employer": {
+        "id": "78638",
+        "name": "Т-Банк",
+        "url": "https://api.hh.ru/employers/78638",
+        "alternate_url": "https://hh.ru/employer/78638",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1405176.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7240372.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7240373.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=78638",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Знаете теорию тестирования, есть опыт работы в тестировании от 2 лет. Имеете опыт в автоматизации от 1 года на Java...",
+        "responsibility": "Проводить функциональное и автоматизированное тестирование. В том числе анализировать и тестировать требования. Работать в продуктовой команде. Разрабатывать тестовую документацию и..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "124",
+          "name": "Тестировщик"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123232261",
+      "premium": false,
+      "name": "Аналитик (Отдел анализа данных и моделирования)",
+      "department": {
+        "id": "78638-78638-money",
+        "name": "Т-Банк. Бизнес и процессы. Финансы"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "улица Грузинский Вал",
+        "building": "7",
+        "lat": 55.774174568296736,
+        "lng": 37.57752064550758,
+        "description": null,
+        "raw": "Москва, улица Грузинский Вал, 7",
+        "metro": {
+          "station_name": "Белорусская",
+          "line_name": "Кольцевая",
+          "station_id": "5.20",
+          "line_id": "5",
+          "lat": 55.775179,
+          "lng": 37.582303
+        },
+        "metro_stations": [
+          {
+            "station_name": "Белорусская",
+            "line_name": "Кольцевая",
+            "station_id": "5.20",
+            "line_id": "5",
+            "lat": 55.775179,
+            "lng": 37.582303
+          },
+          {
+            "station_name": "Белорусская",
+            "line_name": "МЦД-4",
+            "station_id": "136.894",
+            "line_id": "136",
+            "lat": 55.776389,
+            "lng": 37.580278
+          }
+        ],
+        "id": "14765141"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-25T10:58:16+0300",
+      "created_at": "2025-07-25T10:58:16+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123232261",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": {
+        "id": "32978",
+        "url": "https://hh.ru/interview/32978?employerId=78638"
+      },
+      "url": "https://api.hh.ru/vacancies/123232261?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123232261",
+      "relations": [],
+      "employer": {
+        "id": "78638",
+        "name": "Т-Банк",
+        "url": "https://api.hh.ru/employers/78638",
+        "alternate_url": "https://hh.ru/employer/78638",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1405176.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7240372.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7240373.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=78638",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Развитые аналитические способности, умение структурировать большие объемы информации, наглядно представлять, визуализировать и интерпретировать полученные результаты, делать выводы на их основе. ",
+        "responsibility": "Проведение аналитики, разработка подходов к резервированию кредитных продуктов по МСФО, включая моделирование метрик PD, LGD, EAD. Участие в проведении аналитики..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "156",
+          "name": "BI-аналитик, аналитик данных"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123261133",
+      "premium": false,
+      "name": "Главный юрисконсульт",
+      "department": {
+        "id": "78638-78638-lawyer",
+        "name": "Т-Банк. Бизнес и процессы. Юридическое сопровождение"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "66",
+        "name": "Нижний Новгород",
+        "url": "https://api.hh.ru/areas/66"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Нижний Новгород",
+        "street": "улица Родионова",
+        "building": "192к2",
+        "lat": 56.307302,
+        "lng": 44.079855,
+        "description": null,
+        "raw": "Нижний Новгород, улица Родионова, 192к2",
+        "metro": null,
+        "metro_stations": [],
+        "id": "18847501"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-25T15:11:55+0300",
+      "created_at": "2025-07-25T15:11:55+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123261133",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": {
+        "id": "33556",
+        "url": "https://hh.ru/interview/33556?employerId=78638"
+      },
+      "url": "https://api.hh.ru/vacancies/123261133?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123261133",
+      "relations": [],
+      "employer": {
+        "id": "78638",
+        "name": "Т-Банк",
+        "url": "https://api.hh.ru/employers/78638",
+        "alternate_url": "https://hh.ru/employer/78638",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1405176.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7240372.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7240373.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=78638",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт работы с крупными корпоративными клиентами. Опыт работы с большим объемом информации. Опыт правового анализа договоров и внутренних нормативных документов...",
+        "responsibility": "Правовое сопровождение кредитных, документарных и обеспечительных сделок с корпоративными клиентами Банка, в том числе: участие в структурировании сделок, правовой анализ..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "145",
+          "name": "Юрисконсульт"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "122923944",
+      "premium": false,
+      "name": "Специалист по реализации залогового имущества",
+      "department": {
+        "id": "78638-78638-client",
+        "name": "Т-Банк. Работа с клиентами"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 150000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 150000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": null
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "Полковая улица",
+        "building": "3с1",
+        "lat": 55.798293,
+        "lng": 37.604646,
+        "description": null,
+        "raw": "Москва, Полковая улица, 3с1",
+        "metro": {
+          "station_name": "Марьина Роща",
+          "line_name": "Большая кольцевая линия",
+          "station_id": "97.821",
+          "line_id": "97",
+          "lat": 55.798333,
+          "lng": 37.617222
+        },
+        "metro_stations": [
+          {
+            "station_name": "Марьина Роща",
+            "line_name": "Большая кольцевая линия",
+            "station_id": "97.821",
+            "line_id": "97",
+            "lat": 55.798333,
+            "lng": 37.617222
+          }
+        ],
+        "id": "16227855"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-17T10:50:11+0300",
+      "created_at": "2025-07-17T10:50:11+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=122923944",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": {
+        "id": "32978",
+        "url": "https://hh.ru/interview/32978?employerId=78638"
+      },
+      "url": "https://api.hh.ru/vacancies/122923944?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/122923944",
+      "relations": [],
+      "employer": {
+        "id": "78638",
+        "name": "Т-Банк",
+        "url": "https://api.hh.ru/employers/78638",
+        "alternate_url": "https://hh.ru/employer/78638",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1405176.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7240372.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7240373.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=78638",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "У вас есть опыт работы с недвижимостью от 6 месяцев, опыт работы с залоговой или балансовой недвижимостью будет преимуществом. ",
+        "responsibility": "Искать покупателей на залоговую недвижимость и вести с ними переговоры. Размещать объявления о продаже объектов на внешних площадках. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "40",
+          "name": "Другое"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123187767",
+      "premium": false,
+      "name": "Исполнитель обслуживания банкоматов",
+      "department": {
+        "id": "78638-78638-other",
+        "name": "Т-Банк. Другое"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "104",
+        "name": "Челябинск",
+        "url": "https://api.hh.ru/areas/104"
+      },
+      "salary": {
+        "from": 100000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 100000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": null
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-24T10:51:34+0300",
+      "created_at": "2025-07-24T10:51:34+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123187767",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": {
+        "id": "33556",
+        "url": "https://hh.ru/interview/33556?employerId=78638"
+      },
+      "url": "https://api.hh.ru/vacancies/123187767?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123187767",
+      "relations": [],
+      "employer": {
+        "id": "78638",
+        "name": "Т-Банк",
+        "url": "https://api.hh.ru/employers/78638",
+        "alternate_url": "https://hh.ru/employer/78638",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1405176.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7240372.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7240373.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=78638",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "У вас есть опыт обслуживания банкоматов от 1 года. Имеете образование от среднего профессионального в техническом направлении. Понимаете работу ПК...",
+        "responsibility": "Обслуживать банкоматы и терминалы (плановые работы, инкассация). Проводить техническое обслуживание оборудования. Устанавливать и настраивать ПО, диагностировать неисправности и менять комплектующие. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "FIELD_WORK",
+          "name": "Разъездной"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "OTHER",
+          "name": "Другое"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "OTHER",
+          "name": "Другое"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "111",
+          "name": "Сервисный инженер, инженер-механик"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "122235705",
+      "premium": false,
+      "name": "Финансовый менеджер",
+      "department": {
+        "id": "78638-78638-money",
+        "name": "Т-Банк. Бизнес и процессы. Финансы"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "улица Грузинский Вал",
+        "building": "7",
+        "lat": 55.774174568296736,
+        "lng": 37.57752064550758,
+        "description": null,
+        "raw": "Москва, улица Грузинский Вал, 7",
+        "metro": {
+          "station_name": "Белорусская",
+          "line_name": "Кольцевая",
+          "station_id": "5.20",
+          "line_id": "5",
+          "lat": 55.775179,
+          "lng": 37.582303
+        },
+        "metro_stations": [
+          {
+            "station_name": "Белорусская",
+            "line_name": "Кольцевая",
+            "station_id": "5.20",
+            "line_id": "5",
+            "lat": 55.775179,
+            "lng": 37.582303
+          },
+          {
+            "station_name": "Белорусская",
+            "line_name": "МЦД-4",
+            "station_id": "136.894",
+            "line_id": "136",
+            "lat": 55.776389,
+            "lng": 37.580278
+          }
+        ],
+        "id": "14765141"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-28T10:34:03+0300",
+      "created_at": "2025-07-28T10:34:03+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=122235705",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": {
+        "id": "32978",
+        "url": "https://hh.ru/interview/32978?employerId=78638"
+      },
+      "url": "https://api.hh.ru/vacancies/122235705?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/122235705",
+      "relations": [],
+      "employer": {
+        "id": "78638",
+        "name": "Т-Банк",
+        "url": "https://api.hh.ru/employers/78638",
+        "alternate_url": "https://hh.ru/employer/78638",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1405176.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7240372.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7240373.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=78638",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт работы в ex-Big 4 (KPMG, PWC, EY, Deloitte) от 2 лет - желательно. Отличное знание бухгалтерского учета (план счетов...",
+        "responsibility": "Формирование месячной выручки для группы ЮЛ. Построение, унификация и ежемесячное обновление финансовых моделей бизнеса (PL, BS, CFS) на основе вводных..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "137",
+          "name": "Финансовый менеджер"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "122114334",
+      "premium": false,
+      "name": "Digital marketing manager",
+      "department": {
+        "id": "78638-78638-marketer",
+        "name": "Т-Банк. Бизнес и процессы. Маркетинг"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "Замоскворецкая линия",
+        "building": "метро Белорусская",
+        "lat": 55.777393,
+        "lng": 37.582215,
+        "description": null,
+        "raw": "Москва, Замоскворецкая линия, метро Белорусская",
+        "metro": {
+          "station_name": "Белорусская",
+          "line_name": "Замоскворецкая",
+          "station_id": "2.19",
+          "line_id": "2",
+          "lat": 55.777439,
+          "lng": 37.582107
+        },
+        "metro_stations": [
+          {
+            "station_name": "Белорусская",
+            "line_name": "Замоскворецкая",
+            "station_id": "2.19",
+            "line_id": "2",
+            "lat": 55.777439,
+            "lng": 37.582107
+          },
+          {
+            "station_name": "Белорусская",
+            "line_name": "Кольцевая",
+            "station_id": "5.20",
+            "line_id": "5",
+            "lat": 55.775179,
+            "lng": 37.582303
+          },
+          {
+            "station_name": "Белорусская",
+            "line_name": "МЦД-4",
+            "station_id": "136.894",
+            "line_id": "136",
+            "lat": 55.776389,
+            "lng": 37.580278
+          }
+        ],
+        "id": "15197575"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-23T14:02:15+0300",
+      "created_at": "2025-07-23T14:02:15+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=122114334",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": {
+        "id": "32978",
+        "url": "https://hh.ru/interview/32978?employerId=78638"
+      },
+      "url": "https://api.hh.ru/vacancies/122114334?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/122114334",
+      "relations": [],
+      "employer": {
+        "id": "78638",
+        "name": "Т-Банк",
+        "url": "https://api.hh.ru/employers/78638",
+        "alternate_url": "https://hh.ru/employer/78638",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1405176.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7240372.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7240373.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=78638",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт в performance-маркетинге. Уверенное пользование Excel (сводные таблицы, формулы и графики), Power Point. Понимание принципов медиапланирования, знание какие бывают...",
+        "responsibility": "Обрабатывать брифы рекламодателей. Находить новые перспективные каналы или форматы привлечения с использованием аудиторий. Выстраивать оптимальные процессы внутри направления. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "68",
+          "name": "Менеджер по маркетингу, интернет-маркетолог"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "118702141",
+      "premium": false,
+      "name": "Специалист/Главный специалист бэк офиса",
+      "department": {
+        "id": "78638-78638-money",
+        "name": "Т-Банк. Бизнес и процессы. Финансы"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "улица Грузинский Вал",
+        "building": "7",
+        "lat": 55.774174568296736,
+        "lng": 37.57752064550758,
+        "description": null,
+        "raw": "Москва, улица Грузинский Вал, 7",
+        "metro": {
+          "station_name": "Белорусская",
+          "line_name": "Кольцевая",
+          "station_id": "5.20",
+          "line_id": "5",
+          "lat": 55.775179,
+          "lng": 37.582303
+        },
+        "metro_stations": [
+          {
+            "station_name": "Белорусская",
+            "line_name": "Кольцевая",
+            "station_id": "5.20",
+            "line_id": "5",
+            "lat": 55.775179,
+            "lng": 37.582303
+          },
+          {
+            "station_name": "Белорусская",
+            "line_name": "МЦД-4",
+            "station_id": "136.894",
+            "line_id": "136",
+            "lat": 55.776389,
+            "lng": 37.580278
+          }
+        ],
+        "id": "14765141"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-28T18:34:13+0300",
+      "created_at": "2025-07-28T18:34:13+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=118702141",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": {
+        "id": "32978",
+        "url": "https://hh.ru/interview/32978?employerId=78638"
+      },
+      "url": "https://api.hh.ru/vacancies/118702141?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/118702141",
+      "relations": [],
+      "employer": {
+        "id": "78638",
+        "name": "Т-Банк",
+        "url": "https://api.hh.ru/employers/78638",
+        "alternate_url": "https://hh.ru/employer/78638",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1405176.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7240372.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7240373.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=78638",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Высшее образование. Квалификационный аттестат серии 1.0 (аттестат специалиста финансового рынка по брокерской, дилерской деятельности или деятельности по управлению ценными...",
+        "responsibility": "Ввод и систематизирование информации о заключенных сделках на основе первичных документов. Документирование операций, организация хранения первичной документации в бумажном и..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "18",
+          "name": "Бухгалтер"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123087814",
+      "premium": false,
+      "name": "Frontend-разработчик React",
+      "department": {
+        "id": "78638-78638-qa",
+        "name": "Т-Банк. ИТ. QA"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "79",
+        "name": "Саратов",
+        "url": "https://api.hh.ru/areas/79"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-22T09:52:31+0300",
+      "created_at": "2025-07-22T09:52:31+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123087814",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": {
+        "id": "32978",
+        "url": "https://hh.ru/interview/32978?employerId=78638"
+      },
+      "url": "https://api.hh.ru/vacancies/123087814?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123087814",
+      "relations": [],
+      "employer": {
+        "id": "78638",
+        "name": "Т-Банк",
+        "url": "https://api.hh.ru/employers/78638",
+        "alternate_url": "https://hh.ru/employer/78638",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1405176.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7240372.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7240373.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=78638",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Разрабатывать клиентские и внутренние интерфейсы и сопутствующие инструменты. Непрерывно обучаться, совершенствовать свои знания и навыки. Внедрять новые технологии и практики. ",
+        "responsibility": "В большинстве команд используем общий стек: технический радар Т-Банка. Проводим регулярные (но не слишком частые) общие встречи внутреннего фронтенд..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "96",
+          "name": "Программист, разработчик"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "122538016",
+      "premium": false,
+      "name": "Финансовый аналитик",
+      "department": {
+        "id": "78638-78638-money",
+        "name": "Т-Банк. Бизнес и процессы. Финансы"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "улица Грузинский Вал",
+        "building": "7",
+        "lat": 55.774102,
+        "lng": 37.576834,
+        "description": null,
+        "raw": "Москва, улица Грузинский Вал, 7",
+        "metro": null,
+        "metro_stations": [],
+        "id": "14721723"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-08T15:54:24+0300",
+      "created_at": "2025-07-08T15:54:24+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=122538016",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": {
+        "id": "33556",
+        "url": "https://hh.ru/interview/33556?employerId=78638"
+      },
+      "url": "https://api.hh.ru/vacancies/122538016?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/122538016",
+      "relations": [],
+      "employer": {
+        "id": "78638",
+        "name": "Т-Банк",
+        "url": "https://api.hh.ru/employers/78638",
+        "alternate_url": "https://hh.ru/employer/78638",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1405176.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7240372.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7240373.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=78638",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Высшее экономическое или техническое образование. Аналитический склад ума. Понимание основ аллокаций расходов. Понимание основ РСБУ и МСФО. Умение структурировать большие...",
+        "responsibility": "Формирование регулярной управленческой отчетности по направлениям в зоне ответственности, разработка правил аллокации расходов, финансовое моделирование. Основной инструмент в работе - SQL..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "134",
+          "name": "Финансовый аналитик, инвестиционный аналитик"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123187769",
+      "premium": false,
+      "name": "Исполнитель обслуживания банкоматов",
+      "department": {
+        "id": "78638-78638-other",
+        "name": "Т-Банк. Другое"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "72",
+        "name": "Пермь",
+        "url": "https://api.hh.ru/areas/72"
+      },
+      "salary": {
+        "from": 92000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 92000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": null
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-24T10:51:35+0300",
+      "created_at": "2025-07-24T10:51:35+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123187769",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": {
+        "id": "33556",
+        "url": "https://hh.ru/interview/33556?employerId=78638"
+      },
+      "url": "https://api.hh.ru/vacancies/123187769?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123187769",
+      "relations": [],
+      "employer": {
+        "id": "78638",
+        "name": "Т-Банк",
+        "url": "https://api.hh.ru/employers/78638",
+        "alternate_url": "https://hh.ru/employer/78638",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1405176.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7240372.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7240373.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=78638",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "У вас есть опыт обслуживания банкоматов от 1 года. Имеете образование от среднего профессионального в техническом направлении. Понимаете работу ПК...",
+        "responsibility": "Обслуживать банкоматы и терминалы (плановые работы, инкассация). Проводить техническое обслуживание оборудования. Устанавливать и настраивать ПО, диагностировать неисправности и менять комплектующие. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "FIELD_WORK",
+          "name": "Разъездной"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "OTHER",
+          "name": "Другое"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "OTHER",
+          "name": "Другое"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "111",
+          "name": "Сервисный инженер, инженер-механик"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "118698864",
+      "premium": false,
+      "name": "Заместитель руководителя департамента",
+      "department": {
+        "id": "78638-78638-admin",
+        "name": "Т-Банк. Бизнес и процессы. Административное управление"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "улица Грузинский Вал",
+        "building": "7",
+        "lat": 55.774174568296736,
+        "lng": 37.57752064550758,
+        "description": null,
+        "raw": "Москва, улица Грузинский Вал, 7",
+        "metro": {
+          "station_name": "Белорусская",
+          "line_name": "Кольцевая",
+          "station_id": "5.20",
+          "line_id": "5",
+          "lat": 55.775179,
+          "lng": 37.582303
+        },
+        "metro_stations": [
+          {
+            "station_name": "Белорусская",
+            "line_name": "Кольцевая",
+            "station_id": "5.20",
+            "line_id": "5",
+            "lat": 55.775179,
+            "lng": 37.582303
+          },
+          {
+            "station_name": "Белорусская",
+            "line_name": "МЦД-4",
+            "station_id": "136.894",
+            "line_id": "136",
+            "lat": 55.776389,
+            "lng": 37.580278
+          }
+        ],
+        "id": "14765141"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-22T10:30:53+0300",
+      "created_at": "2025-07-22T10:30:53+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=118698864",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": {
+        "id": "33556",
+        "url": "https://hh.ru/interview/33556?employerId=78638"
+      },
+      "url": "https://api.hh.ru/vacancies/118698864?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/118698864",
+      "relations": [],
+      "employer": {
+        "id": "78638",
+        "name": "Т-Банк",
+        "url": "https://api.hh.ru/employers/78638",
+        "alternate_url": "https://hh.ru/employer/78638",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1405176.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7240372.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7240373.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=78638",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Высшее образование. Опыт работы на руководящей должности от 5 лет в сфере недвижимости, девелопмента. Опыт управления крупными командами от 35...",
+        "responsibility": "Организация и обеспечение исполнения текущих и перспективных планов работы подразделения. Организация процессов поиска объектов коммерческой и иной недвижимости для развития..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "40",
+          "name": "Другое"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "111439569",
+      "premium": false,
+      "name": "Системный аналитик",
+      "department": {
+        "id": "78638-78638-analytic",
+        "name": "Т-Банк. ИТ. Аналитика"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "53",
+        "name": "Краснодар",
+        "url": "https://api.hh.ru/areas/53"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Краснодар",
+        "street": "Центральный внутригородской округ, микрорайон Центральный, Кубанская набережная",
+        "building": "39/2",
+        "lat": 45.026769,
+        "lng": 38.959467,
+        "description": null,
+        "raw": "Краснодар, Центральный внутригородской округ, микрорайон Центральный, Кубанская набережная, 39/2",
+        "metro": null,
+        "metro_stations": [],
+        "id": "7607463"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-18T16:39:30+0300",
+      "created_at": "2025-07-18T16:39:30+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=111439569",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": {
+        "id": "32978",
+        "url": "https://hh.ru/interview/32978?employerId=78638"
+      },
+      "url": "https://api.hh.ru/vacancies/111439569?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/111439569",
+      "relations": [],
+      "employer": {
+        "id": "78638",
+        "name": "Т-Банк",
+        "url": "https://api.hh.ru/employers/78638",
+        "alternate_url": "https://hh.ru/employer/78638",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1405176.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7240372.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7240373.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=78638",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт работы системным аналитиком от 2 лет. Навыки декомпозиции процессов и написания технических заданий. Навык верхнеуровнего проектирования систем. ",
+        "responsibility": "Сбор и анализ бизнес требований, взаимодействие с бизнес-заказчиком. Обеспечение интеграционного взаимодействия систем. Составление ТЗ для разработчиков. Участие в построении..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "148",
+          "name": "Системный аналитик"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "120473214",
+      "premium": false,
+      "name": "Бизнес-аналитик (Middle-Senior)",
+      "department": {
+        "id": "78638-78638-analytic",
+        "name": "Т-Банк. ИТ. Аналитика"
+      },
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "улица Грузинский Вал",
+        "building": "7",
+        "lat": 55.774174568296736,
+        "lng": 37.57752064550758,
+        "description": null,
+        "raw": "Москва, улица Грузинский Вал, 7",
+        "metro": {
+          "station_name": "Белорусская",
+          "line_name": "Кольцевая",
+          "station_id": "5.20",
+          "line_id": "5",
+          "lat": 55.775179,
+          "lng": 37.582303
+        },
+        "metro_stations": [
+          {
+            "station_name": "Белорусская",
+            "line_name": "Кольцевая",
+            "station_id": "5.20",
+            "line_id": "5",
+            "lat": 55.775179,
+            "lng": 37.582303
+          },
+          {
+            "station_name": "Белорусская",
+            "line_name": "МЦД-4",
+            "station_id": "136.894",
+            "line_id": "136",
+            "lat": 55.776389,
+            "lng": 37.580278
+          }
+        ],
+        "id": "14765141"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-19T12:41:32+0300",
+      "created_at": "2025-07-19T12:41:32+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120473214",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": {
+        "id": "32978",
+        "url": "https://hh.ru/interview/32978?employerId=78638"
+      },
+      "url": "https://api.hh.ru/vacancies/120473214?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/120473214",
+      "relations": [],
+      "employer": {
+        "id": "78638",
+        "name": "Т-Банк",
+        "url": "https://api.hh.ru/employers/78638",
+        "alternate_url": "https://hh.ru/employer/78638",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/1405176.png",
+          "90": "https://img.hhcdn.ru/employer-logo/7240372.png",
+          "240": "https://img.hhcdn.ru/employer-logo/7240373.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=78638",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "У вас есть опыт работы бизнес-аналитиком или системным аналитиком в продуктовой команде ИТ-компании от 1 года. ",
+        "responsibility": "Вести проекты разного уровня сложности, генерировать идеи и контролировать выполнение задач командой. Собирать, верифицировать, анализировать и описывать бизнес-требования заказчиков. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "150",
+          "name": "Бизнес-аналитик"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    }
+  ],
+  "found": 6640,
+  "pages": 80,
+  "page": 0,
+  "per_page": 25,
+  "clusters": null,
+  "arguments": null,
+  "fixes": null,
+  "suggests": null,
+  "alternate_url": "https://hh.ru/search/vacancy?employer_id=78638&enable_snippets=true&items_on_page=25"
+}

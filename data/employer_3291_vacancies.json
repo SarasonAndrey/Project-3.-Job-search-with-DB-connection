@@ -1,0 +1,3367 @@
+{
+  "items": [
+    {
+      "id": "123093639",
+      "premium": false,
+      "name": "Юрисконсульт (СНТ)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2",
+        "name": "Санкт-Петербург",
+        "url": "https://api.hh.ru/areas/2"
+      },
+      "salary": {
+        "from": null,
+        "to": 150000,
+        "currency": "RUR",
+        "gross": true
+      },
+      "salary_range": {
+        "from": null,
+        "to": 150000,
+        "currency": "RUR",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "TWICE_PER_MONTH",
+          "name": "Два раза в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-22T10:59:17+0300",
+      "created_at": "2025-07-22T10:59:17+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123093639",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123093639?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123093639",
+      "relations": [],
+      "employer": {
+        "id": "3291",
+        "name": "Группа Полипластик",
+        "url": "https://api.hh.ru/employers/3291",
+        "alternate_url": "https://hh.ru/employer/3291",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/965302.png",
+          "90": "https://img.hhcdn.ru/employer-logo/5478712.png",
+          "240": "https://img.hhcdn.ru/employer-logo/5478713.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3291",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Высшее образование (юридическое). Опыт работы юрисконсультом от 5 лет. Знание законодательства: (гражданское право, знание законов, регулирующих коммерческую деятельность компании). ",
+        "responsibility": "Оформление и согласование договоров, соглашений, протоколов разногласий и других документов правового характера. Осуществление проверки на соответствие законодательству проектов договоров и..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "145",
+          "name": "Юрисконсульт"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123339605",
+      "premium": false,
+      "name": "Ведущий экономист",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "102",
+        "name": "Хабаровск",
+        "url": "https://api.hh.ru/areas/102"
+      },
+      "salary": {
+        "from": 115000,
+        "to": 128000,
+        "currency": "RUR",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 115000,
+        "to": 128000,
+        "currency": "RUR",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "TWICE_PER_MONTH",
+          "name": "Два раза в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "село Ильинка",
+        "street": null,
+        "building": null,
+        "lat": 48.368524,
+        "lng": 135.118872,
+        "description": null,
+        "raw": "село Ильинка",
+        "metro": null,
+        "metro_stations": [],
+        "id": "6289335"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-29T03:30:24+0300",
+      "created_at": "2025-07-29T03:30:24+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123339605",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123339605?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123339605",
+      "relations": [],
+      "employer": {
+        "id": "3291",
+        "name": "Группа Полипластик",
+        "url": "https://api.hh.ru/employers/3291",
+        "alternate_url": "https://hh.ru/employer/3291",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/965302.png",
+          "90": "https://img.hhcdn.ru/employer-logo/5478712.png",
+          "240": "https://img.hhcdn.ru/employer-logo/5478713.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3291",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Знание Excel на уровне опытного пользователя (ВПР, сводные таблицы), 1С Бухгалтерия, 1С ERP, БИТ.ФИНАНС. Опыт работы с бюджетами...",
+        "responsibility": "Формирование БДДС, корректировка, план-факт. Контроль расходования денежных средств. Формирование, ведение реестра платежей. Расчет плановой себестоимости. Составление инвестиционного бюджета."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "142",
+          "name": "Экономист"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123085689",
+      "premium": false,
+      "name": "Заместитель начальника отдела обучения",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "Очаковское шоссе",
+        "building": "18с3",
+        "lat": 55.692115,
+        "lng": 37.450072,
+        "description": null,
+        "raw": "Москва, Очаковское шоссе, 18с3",
+        "metro": {
+          "station_name": "Аминьевская",
+          "line_name": "Большая кольцевая линия",
+          "station_id": "97.812",
+          "line_id": "97",
+          "lat": 55.697222,
+          "lng": 37.464167
+        },
+        "metro_stations": [
+          {
+            "station_name": "Аминьевская",
+            "line_name": "Большая кольцевая линия",
+            "station_id": "97.812",
+            "line_id": "97",
+            "lat": 55.697222,
+            "lng": 37.464167
+          }
+        ],
+        "id": "17132051"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-22T09:20:06+0300",
+      "created_at": "2025-07-22T09:20:06+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123085689",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123085689?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123085689",
+      "relations": [],
+      "employer": {
+        "id": "3291",
+        "name": "Группа Полипластик",
+        "url": "https://api.hh.ru/employers/3291",
+        "alternate_url": "https://hh.ru/employer/3291",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/965302.png",
+          "90": "https://img.hhcdn.ru/employer-logo/5478712.png",
+          "240": "https://img.hhcdn.ru/employer-logo/5478713.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3291",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Владение офисными приложениями и профессиональными инструментами (Adobe Photoshop, Illustrator, Premier Pro и др.). Опыт самостоятельного создания разнообразного учебного контента (лонгридов...",
+        "responsibility": "Организация работы с кадровым резервом: Создание обучающих курсов: Регламентирование процессов обучения и развития: Поддержка внутреннего обучающего портала: Дополнительные проекты отдела:"
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "69",
+          "name": "Менеджер по персоналу"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "117896739",
+      "premium": false,
+      "name": "Менеджер по подбору и адаптации персонала",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": null,
+        "street": null,
+        "building": null,
+        "lat": 55.68433277776731,
+        "lng": 37.47732399999994,
+        "description": null,
+        "raw": "Москва, Очаковское шоссе, д. 18, строение 3",
+        "metro": null,
+        "metro_stations": [],
+        "id": "367986"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-23T12:15:36+0300",
+      "created_at": "2025-07-23T12:15:36+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=117896739",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/117896739?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/117896739",
+      "relations": [],
+      "employer": {
+        "id": "3291",
+        "name": "Группа Полипластик",
+        "url": "https://api.hh.ru/employers/3291",
+        "alternate_url": "https://hh.ru/employer/3291",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/965302.png",
+          "90": "https://img.hhcdn.ru/employer-logo/5478712.png",
+          "240": "https://img.hhcdn.ru/employer-logo/5478713.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3291",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Успешный опыт подбора персонала в торговых или торгово-производственных компаниях, а также сфере строительства будет являться большим преимуществом.",
+        "responsibility": "Полное сопровождение процесса подбора персонала — от получения заявки до организации трудоустройства кандидата. Активное привлечение кандидатов на узкопрофильные позиции и участие..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "remote",
+        "name": "Удаленная работа"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        },
+        {
+          "id": "REMOTE",
+          "name": "Удалённо"
+        },
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "118",
+          "name": "Специалист по подбору персонала"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "122363198",
+      "premium": false,
+      "name": "Аналитик",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 150000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 150000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "TWICE_PER_MONTH",
+          "name": "Два раза в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "Очаковское шоссе",
+        "building": "18с3",
+        "lat": 55.692115,
+        "lng": 37.450072,
+        "description": null,
+        "raw": "Москва, Очаковское шоссе, 18с3",
+        "metro": {
+          "station_name": "Аминьевская",
+          "line_name": "Большая кольцевая линия",
+          "station_id": "97.812",
+          "line_id": "97",
+          "lat": 55.697222,
+          "lng": 37.464167
+        },
+        "metro_stations": [
+          {
+            "station_name": "Аминьевская",
+            "line_name": "Большая кольцевая линия",
+            "station_id": "97.812",
+            "line_id": "97",
+            "lat": 55.697222,
+            "lng": 37.464167
+          }
+        ],
+        "id": "17132051"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-16T16:10:49+0300",
+      "created_at": "2025-07-16T16:10:49+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=122363198",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/122363198?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/122363198",
+      "relations": [],
+      "employer": {
+        "id": "3291",
+        "name": "Группа Полипластик",
+        "url": "https://api.hh.ru/employers/3291",
+        "alternate_url": "https://hh.ru/employer/3291",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/965302.png",
+          "90": "https://img.hhcdn.ru/employer-logo/5478712.png",
+          "240": "https://img.hhcdn.ru/employer-logo/5478713.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3291",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт работы в сфере логистики и аналитики. Аналитический склад ума, умение работать с большим объемом информации, делать выводы и представлять...",
+        "responsibility": "Сбор, обработка и подготовка данных для расчета ключевых показателей эффективности управления. Формирование регулярной и разовой отчетности управления транспортной логистики. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "67",
+          "name": "Менеджер по логистике, менеджер по ВЭД"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123205389",
+      "premium": false,
+      "name": "Грузчик",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 78000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 78000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "TWICE_PER_MONTH",
+          "name": "Два раза в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": null,
+        "street": null,
+        "building": null,
+        "lat": 55.75999999999371,
+        "lng": 37.63999999999997,
+        "description": null,
+        "raw": "Москва, ул. Генерала Дорохова, д. 14",
+        "metro": null,
+        "metro_stations": [],
+        "id": "367988"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-24T14:49:48+0300",
+      "created_at": "2025-07-24T14:49:48+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123205389",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123205389?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123205389",
+      "relations": [],
+      "employer": {
+        "id": "3291",
+        "name": "Группа Полипластик",
+        "url": "https://api.hh.ru/employers/3291",
+        "alternate_url": "https://hh.ru/employer/3291",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/965302.png",
+          "90": "https://img.hhcdn.ru/employer-logo/5478712.png",
+          "240": "https://img.hhcdn.ru/employer-logo/5478713.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3291",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Ответственность.",
+        "responsibility": "Погрузка и выгрузка машин. Упаковка паллет."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "31",
+          "name": "Грузчик"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123339564",
+      "premium": false,
+      "name": "Менеджер по закупкам и снабжению",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "5087",
+        "name": "Некрасовка (Хабаровский край)",
+        "url": "https://api.hh.ru/areas/5087"
+      },
+      "salary": {
+        "from": 125000,
+        "to": 125000,
+        "currency": "RUR",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 125000,
+        "to": 125000,
+        "currency": "RUR",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "TWICE_PER_MONTH",
+          "name": "Два раза в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "село Ильинка",
+        "street": null,
+        "building": null,
+        "lat": 48.368524,
+        "lng": 135.118872,
+        "description": null,
+        "raw": "село Ильинка",
+        "metro": null,
+        "metro_stations": [],
+        "id": "6289335"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-29T03:18:41+0300",
+      "created_at": "2025-07-29T03:18:41+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123339564",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123339564?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123339564",
+      "relations": [],
+      "employer": {
+        "id": "3291",
+        "name": "Группа Полипластик",
+        "url": "https://api.hh.ru/employers/3291",
+        "alternate_url": "https://hh.ru/employer/3291",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/965302.png",
+          "90": "https://img.hhcdn.ru/employer-logo/5478712.png",
+          "240": "https://img.hhcdn.ru/employer-logo/5478713.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3291",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "1) опыт работы менеджером по снабжению на производственном предприятии. 2) владение ПК, офисных программ на уровне опытного пользователя, 1С...",
+        "responsibility": "1. Своевременное обеспечение ТМЦ структурных подразделений Общества, согласно оформленным Заявкам на закупку ТМЦ. 2. Отчёт о финансовых активах, выделенных на..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "66",
+          "name": "Менеджер по закупкам"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123089497",
+      "premium": false,
+      "name": "Специалист по обучению и развитию персонала",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "Очаковское шоссе",
+        "building": "18с3",
+        "lat": 55.692115,
+        "lng": 37.450072,
+        "description": null,
+        "raw": "Москва, Очаковское шоссе, 18с3",
+        "metro": {
+          "station_name": "Аминьевская",
+          "line_name": "Большая кольцевая линия",
+          "station_id": "97.812",
+          "line_id": "97",
+          "lat": 55.697222,
+          "lng": 37.464167
+        },
+        "metro_stations": [
+          {
+            "station_name": "Аминьевская",
+            "line_name": "Большая кольцевая линия",
+            "station_id": "97.812",
+            "line_id": "97",
+            "lat": 55.697222,
+            "lng": 37.464167
+          }
+        ],
+        "id": "17132051"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-22T10:13:36+0300",
+      "created_at": "2025-07-22T10:13:36+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123089497",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123089497?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123089497",
+      "relations": [],
+      "employer": {
+        "id": "3291",
+        "name": "Группа Полипластик",
+        "url": "https://api.hh.ru/employers/3291",
+        "alternate_url": "https://hh.ru/employer/3291",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/965302.png",
+          "90": "https://img.hhcdn.ru/employer-logo/5478712.png",
+          "240": "https://img.hhcdn.ru/employer-logo/5478713.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3291",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт организации внешних корпоративных тренингов и семинаров с привлечением сторонних поставщиков услуг — не менее двух лет. Опыт успешного взаимодействия с...",
+        "responsibility": "Организация внешнего обучения сотрудников компании: Организация внутреннего обучения на корпоративном образовательном портале: Управление информацией и отчётностью по обучению: Сотрудничество со..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        },
+        {
+          "id": "HYBRID",
+          "name": "Гибрид"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "69",
+          "name": "Менеджер по персоналу"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "121228035",
+      "premium": false,
+      "name": "Мастер/Слесарь по ремонту оборудования",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 75000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false
+      },
+      "salary_range": {
+        "from": 75000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": null
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": null,
+        "street": null,
+        "building": null,
+        "lat": 55.75999999999371,
+        "lng": 37.63999999999997,
+        "description": null,
+        "raw": "Москва, ул. Генерала Дорохова, д. 14",
+        "metro": null,
+        "metro_stations": [],
+        "id": "367988"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-23T12:45:12+0300",
+      "created_at": "2025-07-23T12:45:12+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121228035",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/121228035?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/121228035",
+      "relations": [],
+      "employer": {
+        "id": "3291",
+        "name": "Группа Полипластик",
+        "url": "https://api.hh.ru/employers/3291",
+        "alternate_url": "https://hh.ru/employer/3291",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/965302.png",
+          "90": "https://img.hhcdn.ru/employer-logo/5478712.png",
+          "240": "https://img.hhcdn.ru/employer-logo/5478713.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3291",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Образование среднее-специальное (техническое). Умение монтировать и демонтировать любые виды оборудования и его узлов. Желание работать и обучаться.",
+        "responsibility": "Поддержание в исправном состоянии оборудование средней сложности: Техническое обслуживание, разборка, чистка и ремонт."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "162",
+          "name": "Мастер по ремонту оборудования, техники"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123312961",
+      "premium": false,
+      "name": "Офис-менеджер (СНТ)",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2",
+        "name": "Санкт-Петербург",
+        "url": "https://api.hh.ru/areas/2"
+      },
+      "salary": {
+        "from": null,
+        "to": 70000,
+        "currency": "RUR",
+        "gross": false
+      },
+      "salary_range": {
+        "from": null,
+        "to": 70000,
+        "currency": "RUR",
+        "gross": false,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "TWICE_PER_MONTH",
+          "name": "Два раза в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-28T12:36:38+0300",
+      "created_at": "2025-07-28T12:36:38+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123312961",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123312961?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123312961",
+      "relations": [],
+      "employer": {
+        "id": "3291",
+        "name": "Группа Полипластик",
+        "url": "https://api.hh.ru/employers/3291",
+        "alternate_url": "https://hh.ru/employer/3291",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/965302.png",
+          "90": "https://img.hhcdn.ru/employer-logo/5478712.png",
+          "240": "https://img.hhcdn.ru/employer-logo/5478713.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3291",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Среднее профессиональное образование, Высшее как преимущество. Опыт работы офис-менеджером от 1 года. Уверенный пользователь – MS Office, 1C Документооборот. ",
+        "responsibility": "Обеспечение функционирования офиса (заказ канцтоваров, расходных материалов). Контроль работы курьерской службы. Приём и обработка входящей и исходящей корреспонденции. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "88",
+          "name": "Офис-менеджер"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123229257",
+      "premium": false,
+      "name": "Слесарь-сборщик",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1924",
+        "name": "Новомосковск (Тульская область)",
+        "url": "https://api.hh.ru/areas/1924"
+      },
+      "salary": {
+        "from": 70000,
+        "to": 90000,
+        "currency": "RUR",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 70000,
+        "to": 90000,
+        "currency": "RUR",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "TWICE_PER_MONTH",
+          "name": "Два раза в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "муниципальное образование Новомосковск",
+        "street": null,
+        "building": null,
+        "lat": 54.122236,
+        "lng": 38.485686,
+        "description": null,
+        "raw": "муниципальное образование Новомосковск",
+        "metro": null,
+        "metro_stations": [],
+        "id": "14583108"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-25T10:21:23+0300",
+      "created_at": "2025-07-25T10:21:23+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123229257",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123229257?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123229257",
+      "relations": [],
+      "employer": {
+        "id": "3291",
+        "name": "Группа Полипластик",
+        "url": "https://api.hh.ru/employers/3291",
+        "alternate_url": "https://hh.ru/employer/3291",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/965302.png",
+          "90": "https://img.hhcdn.ru/employer-logo/5478712.png",
+          "240": "https://img.hhcdn.ru/employer-logo/5478713.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3291",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Умение работать электроинструментом (желательно сварочным аппаратом). Рассмотрим кандидатов без опыта работы (обучаем на рабочем месте.",
+        "responsibility": "Изготовление нестандартных деталей по чертежам из полиэтиленовых труб."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_12",
+          "name": "12 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "OTHER",
+          "name": "Другое"
+        }
+      ],
+      "night_shifts": true,
+      "professional_roles": [
+        {
+          "id": "115",
+          "name": "Слесарь, сантехник"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123264463",
+      "premium": false,
+      "name": "Начальник транспортного цеха",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "53",
+        "name": "Краснодар",
+        "url": "https://api.hh.ru/areas/53"
+      },
+      "salary": {
+        "from": 70000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 70000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "TWICE_PER_MONTH",
+          "name": "Два раза в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": null,
+        "street": null,
+        "building": null,
+        "lat": 45.23020100005654,
+        "lng": 39.21859499999999,
+        "description": null,
+        "raw": "станица Динская, улица Гоголя 183/1",
+        "metro": null,
+        "metro_stations": [],
+        "id": "311446"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-25T16:19:04+0300",
+      "created_at": "2025-07-25T16:19:04+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123264463",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123264463?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123264463",
+      "relations": [],
+      "employer": {
+        "id": "3291",
+        "name": "Группа Полипластик",
+        "url": "https://api.hh.ru/employers/3291",
+        "alternate_url": "https://hh.ru/employer/3291",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/965302.png",
+          "90": "https://img.hhcdn.ru/employer-logo/5478712.png",
+          "240": "https://img.hhcdn.ru/employer-logo/5478713.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3291",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Опыт работы в аналогичной должности или на позиции Главного механика, Заведующего гаражом. Уверенное пользователь ПК, программ 1С, Outlook, MS...",
+        "responsibility": "Оперативное управление транспортным цехом. Организация выпуска на линию автотранспорта согласно утвержденному графику. Организация процесса прохождения ТО и ремонтов, грузоподъемных механизмов..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "172",
+          "name": "Руководитель отдела логистики"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "120919565",
+      "premium": false,
+      "name": "Водитель погрузчика",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 82000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false
+      },
+      "salary_range": {
+        "from": 82000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": null
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": null,
+        "street": null,
+        "building": null,
+        "lat": 55.75999999999371,
+        "lng": 37.63999999999997,
+        "description": null,
+        "raw": "Москва, ул. Генерала Дорохова, д. 14",
+        "metro": null,
+        "metro_stations": [],
+        "id": "367988"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-25T16:50:40+0300",
+      "created_at": "2025-07-25T16:50:40+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120919565",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/120919565?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/120919565",
+      "relations": [],
+      "employer": {
+        "id": "3291",
+        "name": "Группа Полипластик",
+        "url": "https://api.hh.ru/employers/3291",
+        "alternate_url": "https://hh.ru/employer/3291",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/965302.png",
+          "90": "https://img.hhcdn.ru/employer-logo/5478712.png",
+          "240": "https://img.hhcdn.ru/employer-logo/5478713.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3291",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Действующее удостоверение \"тракториста-машиниста\" с категорией \"С\" (обязательно). Опыт работы на дизельных погрузчиках грузоподъемностью до 10 тонн.",
+        "responsibility": "Перевозка паллет, штабелирование. Перевозка оборудования, негабаритных и крупногабаритных грузов."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "21",
+          "name": "Водитель"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123157668",
+      "premium": false,
+      "name": "Бухгалтер",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1546",
+        "name": "Новошахтинск",
+        "url": "https://api.hh.ru/areas/1546"
+      },
+      "salary": {
+        "from": 46500,
+        "to": 71000,
+        "currency": "RUR",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 46500,
+        "to": 71000,
+        "currency": "RUR",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": null
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": null,
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-23T16:09:09+0300",
+      "created_at": "2025-07-23T16:09:09+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123157668",
+      "show_logo_in_search": null,
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123157668?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123157668",
+      "relations": [],
+      "employer": {
+        "id": "3291",
+        "name": "Группа Полипластик",
+        "url": "https://api.hh.ru/employers/3291",
+        "alternate_url": "https://hh.ru/employer/3291",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/965302.png",
+          "90": "https://img.hhcdn.ru/employer-logo/5478712.png",
+          "240": "https://img.hhcdn.ru/employer-logo/5478713.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3291",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Знание 1С:Предприятие, ЗуП, 1С:ERP, Word, Excel, Outlook, Skyp.",
+        "responsibility": "Отражение финансово-хозяйственных операций в бухгалтерском / налоговом / управленческом учете."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "18",
+          "name": "Бухгалтер"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123120839",
+      "premium": false,
+      "name": "Специалист по кадрам",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "2448",
+        "name": "Динская станица",
+        "url": "https://api.hh.ru/areas/2448"
+      },
+      "salary": {
+        "from": 65000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 65000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "TWICE_PER_MONTH",
+          "name": "Два раза в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": null,
+        "street": null,
+        "building": null,
+        "lat": 45.23020100005654,
+        "lng": 39.21859499999999,
+        "description": null,
+        "raw": "станица Динская, улица Гоголя 183/1",
+        "metro": null,
+        "metro_stations": [],
+        "id": "311446"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-29T08:41:18+0300",
+      "created_at": "2025-07-29T08:41:18+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123120839",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123120839?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123120839",
+      "relations": [],
+      "employer": {
+        "id": "3291",
+        "name": "Группа Полипластик",
+        "url": "https://api.hh.ru/employers/3291",
+        "alternate_url": "https://hh.ru/employer/3291",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/965302.png",
+          "90": "https://img.hhcdn.ru/employer-logo/5478712.png",
+          "240": "https://img.hhcdn.ru/employer-logo/5478713.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3291",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Высшее образование. Опыт работы с аналогичным функционалом. Знание Трудового Законодательства и Основ делопроизводства. Уверенное пользователь ПК, офисной техники. ",
+        "responsibility": "Ведение кадрового учёта и документооборота в соответствии с требованиями Трудового кодекса и иных нормативных актов. Прием, перевод и увольнение сотрудников..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "117",
+          "name": "Специалист по кадрам"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123157553",
+      "premium": false,
+      "name": "Оператор технологических линий/оператор экструдера-машинист экструдера",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1546",
+        "name": "Новошахтинск",
+        "url": "https://api.hh.ru/areas/1546"
+      },
+      "salary": {
+        "from": 70000,
+        "to": 90000,
+        "currency": "RUR",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 70000,
+        "to": 90000,
+        "currency": "RUR",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": null
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Новошахтинск",
+        "street": "Трамвайная улица",
+        "building": "35",
+        "lat": 47.789784,
+        "lng": 39.901979,
+        "description": null,
+        "raw": "Новошахтинск, Трамвайная улица, 35",
+        "metro": null,
+        "metro_stations": [],
+        "id": "7629131"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-23T16:06:42+0300",
+      "created_at": "2025-07-23T16:06:42+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123157553",
+      "show_logo_in_search": null,
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123157553?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123157553",
+      "relations": [],
+      "employer": {
+        "id": "3291",
+        "name": "Группа Полипластик",
+        "url": "https://api.hh.ru/employers/3291",
+        "alternate_url": "https://hh.ru/employer/3291",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/965302.png",
+          "90": "https://img.hhcdn.ru/employer-logo/5478712.png",
+          "240": "https://img.hhcdn.ru/employer-logo/5478713.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3291",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Среднее (полное) образование. Рассматриваем без опыта. Опыт работы в аналогичной должности приветствуется.",
+        "responsibility": "Работа на линии по производству полимерных труб. Обслуживание линии в течение смены, засыпка сырья в бункер. Контроль качества выпускаемой продукции."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_12",
+          "name": "12 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "OTHER",
+          "name": "Другое"
+        }
+      ],
+      "night_shifts": true,
+      "professional_roles": [
+        {
+          "id": "85",
+          "name": "Оператор производственной линии"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "120084661",
+      "premium": false,
+      "name": "Оператор экструзионной линии",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 90000,
+        "to": 115000,
+        "currency": "RUR",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 90000,
+        "to": 115000,
+        "currency": "RUR",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "TWICE_PER_MONTH",
+          "name": "Два раза в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "улица Генерала Дорохова",
+        "building": "вл14",
+        "lat": 55.701932,
+        "lng": 37.450998,
+        "description": null,
+        "raw": "Москва, улица Генерала Дорохова, вл14",
+        "metro": {
+          "station_name": "Славянский бульвар",
+          "line_name": "Арбатско-Покровская",
+          "station_id": "3.176",
+          "line_id": "3",
+          "lat": 55.729542,
+          "lng": 37.470973
+        },
+        "metro_stations": [
+          {
+            "station_name": "Славянский бульвар",
+            "line_name": "Арбатско-Покровская",
+            "station_id": "3.176",
+            "line_id": "3",
+            "lat": 55.729542,
+            "lng": 37.470973
+          }
+        ],
+        "id": "5290938"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-23T12:45:21+0300",
+      "created_at": "2025-07-23T12:45:21+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=120084661",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/120084661?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/120084661",
+      "relations": [],
+      "employer": {
+        "id": "3291",
+        "name": "Группа Полипластик",
+        "url": "https://api.hh.ru/employers/3291",
+        "alternate_url": "https://hh.ru/employer/3291",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/965302.png",
+          "90": "https://img.hhcdn.ru/employer-logo/5478712.png",
+          "240": "https://img.hhcdn.ru/employer-logo/5478713.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3291",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Желание работать и развиваться в сфере производства. Ответственность, внимательность, аккуратность. Умение работать в команде. Опыт работы приветствуется, но не обязателен...",
+        "responsibility": "Обслуживание и контроль работы технологической линии по производству полиэтиленовых труб . Соблюдение технологических процессов и стандартов качества."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "shift",
+        "name": "Сменный график"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_11",
+          "name": "11 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FOUR_ON_FOUR_OFF",
+          "name": "4/4"
+        }
+      ],
+      "night_shifts": true,
+      "professional_roles": [
+        {
+          "id": "85",
+          "name": "Оператор производственной линии"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123162177",
+      "premium": false,
+      "name": "Электромонтер по ремонту и обслуживанию электрооборудования",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 65000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false
+      },
+      "salary_range": {
+        "from": 65000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "TWICE_PER_MONTH",
+          "name": "Два раза в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": null,
+        "street": null,
+        "building": null,
+        "lat": 55.75999999999371,
+        "lng": 37.63999999999997,
+        "description": null,
+        "raw": "Москва, ул. Генерала Дорохова, д. 14",
+        "metro": null,
+        "metro_stations": [],
+        "id": "367988"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-23T17:32:13+0300",
+      "created_at": "2025-07-23T17:32:13+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123162177",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123162177?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123162177",
+      "relations": [],
+      "employer": {
+        "id": "3291",
+        "name": "Группа Полипластик",
+        "url": "https://api.hh.ru/employers/3291",
+        "alternate_url": "https://hh.ru/employer/3291",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/965302.png",
+          "90": "https://img.hhcdn.ru/employer-logo/5478712.png",
+          "240": "https://img.hhcdn.ru/employer-logo/5478713.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3291",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Профильное средне-специальное образование. Аналогичный опыт работы от 3 лет. Наличие действующей группы по электробезопасности не ниже IV до и...",
+        "responsibility": "Оперативное обслуживание и ремонт электрооборудования 0,4-10 КВ с соблюдением Правил ОТ И ПБ."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "shift",
+        "name": "Сменный график"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_24",
+          "name": "24 часа"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "ONE_ON_THREE_OFF",
+          "name": "1/3"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "143",
+          "name": "Электромонтажник"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "122515363",
+      "premium": false,
+      "name": "Специалист по связям с общественностью",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": {
+        "from": 85000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 85000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "TWICE_PER_MONTH",
+          "name": "Два раза в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "Очаковское шоссе",
+        "building": "18с3",
+        "lat": 55.692115,
+        "lng": 37.450072,
+        "description": null,
+        "raw": "Москва, Очаковское шоссе, 18с3",
+        "metro": {
+          "station_name": "Аминьевская",
+          "line_name": "Большая кольцевая линия",
+          "station_id": "97.812",
+          "line_id": "97",
+          "lat": 55.697222,
+          "lng": 37.464167
+        },
+        "metro_stations": [
+          {
+            "station_name": "Аминьевская",
+            "line_name": "Большая кольцевая линия",
+            "station_id": "97.812",
+            "line_id": "97",
+            "lat": 55.697222,
+            "lng": 37.464167
+          }
+        ],
+        "id": "17132051"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-08T10:39:50+0300",
+      "created_at": "2025-07-08T10:39:50+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=122515363",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/122515363?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/122515363",
+      "relations": [],
+      "employer": {
+        "id": "3291",
+        "name": "Группа Полипластик",
+        "url": "https://api.hh.ru/employers/3291",
+        "alternate_url": "https://hh.ru/employer/3291",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/965302.png",
+          "90": "https://img.hhcdn.ru/employer-logo/5478712.png",
+          "240": "https://img.hhcdn.ru/employer-logo/5478713.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3291",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Наличие знаний об организации выставок, принципов разработки сувенирной продукции, знание полиграфии и полиграфических терминов. Уверенный пользователь пакета Office (знание Excel...",
+        "responsibility": "Подготовка и техническое сопровождение выставок (участие в разработке идеи стенда, проведение тендера на застройку стенда, контроль подрядчиков, приемка стенда, техническое..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "2",
+          "name": "PR-менеджер"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "121653308",
+      "premium": false,
+      "name": "Оператор производственной линии",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "212",
+        "name": "Тольятти",
+        "url": "https://api.hh.ru/areas/212"
+      },
+      "salary": {
+        "from": 60000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false
+      },
+      "salary_range": {
+        "from": 60000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "TWICE_PER_MONTH",
+          "name": "Два раза в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Тольятти",
+        "street": "Вокзальная улица",
+        "building": "108",
+        "lat": 53.578866,
+        "lng": 49.232564,
+        "description": null,
+        "raw": "Тольятти, Вокзальная улица, 108",
+        "metro": null,
+        "metro_stations": [],
+        "id": "830008"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-09T06:46:58+0300",
+      "created_at": "2025-07-09T06:46:58+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121653308",
+      "show_logo_in_search": null,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/121653308?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/121653308",
+      "relations": [],
+      "employer": {
+        "id": "3291",
+        "name": "Группа Полипластик",
+        "url": "https://api.hh.ru/employers/3291",
+        "alternate_url": "https://hh.ru/employer/3291",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/965302.png",
+          "90": "https://img.hhcdn.ru/employer-logo/5478712.png",
+          "240": "https://img.hhcdn.ru/employer-logo/5478713.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3291",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Образование не ниже среднего полного. Опыт работы на производстве в любой должности будет преимуществом.",
+        "responsibility": "Ведение процесса производства композиционных материалов : - подготовка и загрузка полимерного сырья. - расфасовка готовой продукции. - контроль за работой линии и качеством выпускаемой..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "shift",
+        "name": "Сменный график"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_12",
+          "name": "12 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "TWO_ON_TWO_OFF",
+          "name": "2/2"
+        }
+      ],
+      "night_shifts": true,
+      "professional_roles": [
+        {
+          "id": "85",
+          "name": "Оператор производственной линии"
+        }
+      ],
+      "accept_incomplete_resumes": true,
+      "experience": {
+        "id": "noExperience",
+        "name": "Нет опыта"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123216311",
+      "premium": false,
+      "name": "Главный энергетик",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "53",
+        "name": "Краснодар",
+        "url": "https://api.hh.ru/areas/53"
+      },
+      "salary": {
+        "from": 130000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 130000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "TWICE_PER_MONTH",
+          "name": "Два раза в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": null,
+        "street": null,
+        "building": null,
+        "lat": 45.23020100005654,
+        "lng": 39.21859499999999,
+        "description": null,
+        "raw": "станица Динская, улица Гоголя 183/1",
+        "metro": null,
+        "metro_stations": [],
+        "id": "311446"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-24T18:27:06+0300",
+      "created_at": "2025-07-24T18:27:06+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123216311",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123216311?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123216311",
+      "relations": [],
+      "employer": {
+        "id": "3291",
+        "name": "Группа Полипластик",
+        "url": "https://api.hh.ru/employers/3291",
+        "alternate_url": "https://hh.ru/employer/3291",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/965302.png",
+          "90": "https://img.hhcdn.ru/employer-logo/5478712.png",
+          "240": "https://img.hhcdn.ru/employer-logo/5478713.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3291",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Высшее образование (Электроэнергетика и Электротехника). Наличие V группы по электробезопасности (до и выше 1000V), Аттестация в Ростехнадзоре — обязательно, желательно...",
+        "responsibility": "Обеспечение бесперебойной работы электрооборудования завода, котельной, компрессорной, вентиляционной системы, холодильных установок. Организация и ведения учета потребляемой электроэнергии на предприятии. "
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "80",
+          "name": "Начальник производства"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between3And6",
+        "name": "От 3 до 6 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123070259",
+      "premium": false,
+      "name": "Экономист",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "17",
+        "name": "Белгород",
+        "url": "https://api.hh.ru/areas/17"
+      },
+      "salary": {
+        "from": 80000,
+        "to": 80000,
+        "currency": "RUR",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 80000,
+        "to": 80000,
+        "currency": "RUR",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "TWICE_PER_MONTH",
+          "name": "Два раза в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "рабочий посёлок Октябрьский",
+        "street": null,
+        "building": null,
+        "lat": 50.435664,
+        "lng": 36.350813,
+        "description": null,
+        "raw": "рабочий посёлок Октябрьский",
+        "metro": null,
+        "metro_stations": [],
+        "id": "13674004"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-21T16:51:54+0300",
+      "created_at": "2025-07-21T16:51:54+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123070259",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123070259?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123070259",
+      "relations": [],
+      "employer": {
+        "id": "3291",
+        "name": "Группа Полипластик",
+        "url": "https://api.hh.ru/employers/3291",
+        "alternate_url": "https://hh.ru/employer/3291",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/965302.png",
+          "90": "https://img.hhcdn.ru/employer-logo/5478712.png",
+          "240": "https://img.hhcdn.ru/employer-logo/5478713.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3291",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Знание основ бюджетирования, основных принципов управленческого и бухгалтерского учета. Уверенный пользователь MS Office (Word, Excel), 1C 8.3, желательно...",
+        "responsibility": "Сбор, проверка, согласование, контроль исполнения и анализ плановых и фактических данных БДР структурных подразделений компании. Участие в формировании годового бизнес..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "142",
+          "name": "Экономист"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123037028",
+      "premium": false,
+      "name": "Специалист клиентского сервиса",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "3",
+        "name": "Екатеринбург",
+        "url": "https://api.hh.ru/areas/3"
+      },
+      "salary": {
+        "from": 65000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true
+      },
+      "salary_range": {
+        "from": 65000,
+        "to": null,
+        "currency": "RUR",
+        "gross": true,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "TWICE_PER_MONTH",
+          "name": "Два раза в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Екатеринбург",
+        "street": "улица Белинского",
+        "building": "83",
+        "lat": 56.82304,
+        "lng": 60.619106,
+        "description": null,
+        "raw": "Екатеринбург, улица Белинского, 83",
+        "metro": null,
+        "metro_stations": [],
+        "id": "15340030"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-25T14:21:55+0300",
+      "created_at": "2025-07-25T14:21:55+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123037028",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123037028?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123037028",
+      "relations": [],
+      "employer": {
+        "id": "3291",
+        "name": "Группа Полипластик",
+        "url": "https://api.hh.ru/employers/3291",
+        "alternate_url": "https://hh.ru/employer/3291",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/965302.png",
+          "90": "https://img.hhcdn.ru/employer-logo/5478712.png",
+          "240": "https://img.hhcdn.ru/employer-logo/5478713.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3291",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Образование средне-специальное или высшее. Рассмотрим кандидатов с минимальным опытом или без опыта, но с желанием обучаться, развиваться. ",
+        "responsibility": "Обслуживание постоянных и новых клиентов на закрепленной территории (без поиска клиентов). Консультирование клиентов по продукции (наличие, сроки поставки/производства, стоимость..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "70",
+          "name": "Менеджер по продажам, менеджер по работе с клиентами"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "123077737",
+      "premium": false,
+      "name": "Бухгалтер",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1126",
+        "name": "Ангарск",
+        "url": "https://api.hh.ru/areas/1126"
+      },
+      "salary": {
+        "from": 55000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false
+      },
+      "salary_range": {
+        "from": 55000,
+        "to": null,
+        "currency": "RUR",
+        "gross": false,
+        "mode": {
+          "id": "MONTH",
+          "name": "За месяц"
+        },
+        "frequency": {
+          "id": "TWICE_PER_MONTH",
+          "name": "Два раза в месяц"
+        }
+      },
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Ангарск",
+        "street": "Первый промышленный массив",
+        "building": null,
+        "lat": 52.562553,
+        "lng": 103.943199,
+        "description": null,
+        "raw": "Ангарск, Первый промышленный массив",
+        "metro": null,
+        "metro_stations": [],
+        "id": "7657640"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-22T03:13:58+0300",
+      "created_at": "2025-07-22T03:13:58+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=123077737",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": true,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/123077737?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/123077737",
+      "relations": [],
+      "employer": {
+        "id": "3291",
+        "name": "Группа Полипластик",
+        "url": "https://api.hh.ru/employers/3291",
+        "alternate_url": "https://hh.ru/employer/3291",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/965302.png",
+          "90": "https://img.hhcdn.ru/employer-logo/5478712.png",
+          "240": "https://img.hhcdn.ru/employer-logo/5478713.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3291",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "Среднее-профессиональное или высшее экономическое образование. Опыт работы бухгалтером от 1 года.",
+        "responsibility": "Внесение базу 1С первичных документов по приходу материалов, услуг /работ, авансовые отчеты. Учет прослеживаемых товаров, участие в проведении и..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "18",
+          "name": "Бухгалтер"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    },
+    {
+      "id": "121723234",
+      "premium": false,
+      "name": "Менеджер по работе с ключевыми клиентами",
+      "department": null,
+      "has_test": false,
+      "response_letter_required": false,
+      "area": {
+        "id": "1",
+        "name": "Москва",
+        "url": "https://api.hh.ru/areas/1"
+      },
+      "salary": null,
+      "salary_range": null,
+      "type": {
+        "id": "open",
+        "name": "Открытая"
+      },
+      "address": {
+        "city": "Москва",
+        "street": "Очаковское шоссе",
+        "building": "18с3",
+        "lat": 55.692115,
+        "lng": 37.450072,
+        "description": null,
+        "raw": "Москва, Очаковское шоссе, 18с3",
+        "metro": {
+          "station_name": "Аминьевская",
+          "line_name": "Большая кольцевая линия",
+          "station_id": "97.812",
+          "line_id": "97",
+          "lat": 55.697222,
+          "lng": 37.464167
+        },
+        "metro_stations": [
+          {
+            "station_name": "Аминьевская",
+            "line_name": "Большая кольцевая линия",
+            "station_id": "97.812",
+            "line_id": "97",
+            "lat": 55.697222,
+            "lng": 37.464167
+          }
+        ],
+        "id": "17132051"
+      },
+      "response_url": null,
+      "sort_point_distance": null,
+      "published_at": "2025-07-14T15:05:04+0300",
+      "created_at": "2025-07-14T15:05:04+0300",
+      "archived": false,
+      "apply_alternate_url": "https://hh.ru/applicant/vacancy_response?vacancyId=121723234",
+      "branding": {
+        "type": "MAKEUP",
+        "tariff": null
+      },
+      "show_logo_in_search": true,
+      "show_contacts": false,
+      "insider_interview": null,
+      "url": "https://api.hh.ru/vacancies/121723234?host=hh.ru",
+      "alternate_url": "https://hh.ru/vacancy/121723234",
+      "relations": [],
+      "employer": {
+        "id": "3291",
+        "name": "Группа Полипластик",
+        "url": "https://api.hh.ru/employers/3291",
+        "alternate_url": "https://hh.ru/employer/3291",
+        "logo_urls": {
+          "original": "https://img.hhcdn.ru/employer-logo-original/965302.png",
+          "90": "https://img.hhcdn.ru/employer-logo/5478712.png",
+          "240": "https://img.hhcdn.ru/employer-logo/5478713.png"
+        },
+        "vacancies_url": "https://api.hh.ru/vacancies?employer_id=3291",
+        "accredited_it_employer": false,
+        "trusted": true
+      },
+      "snippet": {
+        "requirement": "высшее профильное образование (переработка пластмасс, технологии производства полимеров, материаловедение). - опыт работы в сфере сбыта сырьевых товаров или композитных материалов — является...",
+        "responsibility": "ведение договорной документации. - планирование и сопровождение процесса отгрузки продукции клиентам. - оперативный контроль состояния финансовых расчетов с заказчиками. - поддержка коммуникации с..."
+      },
+      "contacts": null,
+      "schedule": {
+        "id": "fullDay",
+        "name": "Полный день"
+      },
+      "working_days": [],
+      "working_time_intervals": [],
+      "working_time_modes": [],
+      "accept_temporary": false,
+      "fly_in_fly_out_duration": [],
+      "work_format": [
+        {
+          "id": "ON_SITE",
+          "name": "На месте работодателя"
+        }
+      ],
+      "working_hours": [
+        {
+          "id": "HOURS_8",
+          "name": "8 часов"
+        }
+      ],
+      "work_schedule_by_days": [
+        {
+          "id": "FIVE_ON_TWO_OFF",
+          "name": "5/2"
+        }
+      ],
+      "night_shifts": false,
+      "professional_roles": [
+        {
+          "id": "70",
+          "name": "Менеджер по продажам, менеджер по работе с клиентами"
+        }
+      ],
+      "accept_incomplete_resumes": false,
+      "experience": {
+        "id": "between1And3",
+        "name": "От 1 года до 3 лет"
+      },
+      "employment": {
+        "id": "full",
+        "name": "Полная занятость"
+      },
+      "employment_form": {
+        "id": "FULL",
+        "name": "Полная"
+      },
+      "internship": false,
+      "adv_response_url": null,
+      "is_adv_vacancy": false,
+      "adv_context": null
+    }
+  ],
+  "found": 183,
+  "pages": 8,
+  "page": 0,
+  "per_page": 25,
+  "clusters": null,
+  "arguments": null,
+  "fixes": null,
+  "suggests": null,
+  "alternate_url": "https://hh.ru/search/vacancy?employer_id=3291&enable_snippets=true&items_on_page=25"
+}
